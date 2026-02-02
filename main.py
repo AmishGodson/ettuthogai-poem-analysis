@@ -19,11 +19,11 @@ print("Poem read from file:", poem)
 ml_result = validate_poem(poem)
 
 if ml_result == "ETTUTHOGAI":
-    print("✅ Ettuthogai poem detected (ML)")
+    print(" Ettuthogai poem detected (ML)")
 elif corpus_match(poem):
-    print("✅ Ettuthogai poem detected (Corpus-based fallback)")
+    print(" Ettuthogai poem detected ")
 else:
-    print("❌ This poem is NOT an Ettuthogai poem.")
+    print(" This poem is NOT an Ettuthogai poem.")
     exit()
 
 # ---- SEMANTIC PIPELINE ----
