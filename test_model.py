@@ -1,7 +1,7 @@
 from ettuthogai_validator import validate_poem
 
-poem1 = "கார்வானம் கொண்டனைப் பொன்னேர் புதுமலர்த் தாரன்"
-poem2 = "இது ஒரு நவீன தமிழ் கவிதை"
+ett_poem = "கார்வானம் கொண்டனைப் பொன்னேர் புதுமலர்த் தாரன்"
+non_poem = "அறம் பொருள் இன்பம் வீடு அடைதல்"
 
-print("Poem 1:", validate_poem(poem1))
-print("Poem 2:", validate_poem(poem2))
+print("Ettuthogai:", validate_poem(ett_poem))
+print("Non-Ettuthogai:", validate_poem(non_poem))

@@ -6,15 +6,18 @@ MODEL_PATH = os.path.join("models", "ettuthogai_validator.pkl")
 with open(MODEL_PATH, "rb") as f:
     model = pickle.load(f)
 
-def validate_poem(poem_text, threshold=0.55):
-    probs = model.predict_proba([poem_text])[0]
-    classes = model.classes_
+def validate_poem(poem_text):
+    """
+    Returns:
+    - ETTUTHOGAI
+    - NOT_ETTUTHOGAI
+    """
 
-    ettu_index = list(classes).index("ETTUTHOGAI")
-    confidence = probs[ettu_index]
+    prediction = model.predict([poem_text])[0]
 
-    print(f"[DEBUG] Ettuthogai confidence: {confidence:.2f}")
+    # Decision score (confidence-like)
+    score = model.decision_function([poem_text])[0]
 
-    if confidence >= threshold:
-        return "ETTUTHOGAI"
-    return "NOT_ETTUTHOGAI"
+    print(f"[DEBUG] Decision score: {score:.2f}")
+
+    return prediction

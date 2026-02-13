@@ -7,7 +7,7 @@ from ettuthogai_corpus_check import corpus_match
 from module1_preprocessing import TamilPreprocessor
 from module2_entity_extraction import EntityExtractor
 from module3_knowledge_mapping import KnowledgeMapper
-from module4_sentence_generation import TamilSentenceGenerator
+#from module4_sentence_generation import TamilSentenceGenerator
 
 # ---- READ INPUT ----
 with open("input_poem.txt", encoding="utf-8") as f:
@@ -20,8 +20,8 @@ ml_result = validate_poem(poem)
 
 if ml_result == "ETTUTHOGAI":
     print(" Ettuthogai poem detected (ML)")
-elif corpus_match(poem):
-    print(" Ettuthogai poem detected ")
+# elif corpus_match(poem):
+#     print(" Ettuthogai poem detected ")
 else:
     print(" This poem is NOT an Ettuthogai poem.")
     exit()
@@ -36,10 +36,10 @@ entities = ner.predict(tokens)
 kb = KnowledgeMapper()
 enriched = kb.enrich(entities)
 
-gen = TamilSentenceGenerator()
-meaning = gen.generate(enriched)
+#gen = TamilSentenceGenerator()
+#meaning = gen.generate(enriched)
 
 # ---- OUTPUT ----
 print("TOKENS:", tokens)
 print("ENTITY TAGS:", entities)
-print("SIMPLIFIED MEANING:", meaning)
+#print("SIMPLIFIED MEANING:", meaning)

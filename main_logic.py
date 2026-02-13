@@ -4,10 +4,10 @@ from ettuthogai_corpus_check import corpus_match
 from module1_preprocessing import TamilPreprocessor
 from module2_entity_extraction import EntityExtractor
 from module3_knowledge_mapping import KnowledgeMapper
-from module4_sentence_generation import TamilSentenceGenerator
 
 
 def analyze_poem(poem_text):
+
     result = validate_poem(poem_text)
 
     if result == "ETTUTHOGAI":
@@ -18,25 +18,23 @@ def analyze_poem(poem_text):
         return {
             "validation": "Not an Ettuthogai poem",
             "tokens": [],
-            "entities": [],
-            "meaning": ""
+            "entities": []
         }
 
+    # Tokenization
     pre = TamilPreprocessor()
     tokens = pre.preprocess(poem_text)
 
+    # Entity Extraction
     ner = EntityExtractor()
     entities = ner.predict(tokens)
 
+    # Knowledge Mapping
     kb = KnowledgeMapper()
     enriched = kb.enrich(entities)
-
-    gen = TamilSentenceGenerator()
-    meaning = gen.generate(enriched)
 
     return {
         "validation": validation,
         "tokens": tokens,
-        "entities": entities,
-        "meaning": meaning
+        "entities": entities
     }
