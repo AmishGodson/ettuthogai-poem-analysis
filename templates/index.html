@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ettuthogai Poem Analyzer</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Ettuthogai Poem Classification and Semantic Analysis</h1>
+
+    <form method="POST">
+        <label>Enter Tamil Poem:</label>
+        <textarea name="poem" rows="6" required></textarea>
+
+        <button type="submit">Analyze</button>
+    </form>
+
+    {% if output %}
+    <div class="result">
+        <h2>Output</h2>
+
+        <p><b>Validation Result:</b> {{ output.validation }}</p>
+
+        <h3>Tokens</h3>
+        <ul>
+            {% for token in output.tokens %}
+            <li>{{ token }}</li>
+            {% endfor %}
+        </ul>
+
+        <h3>Entity Tags</h3>
+        <table>
+            <tr>
+                <th>Token</th>
+                <th>Entity</th>
+            </tr>
+            {% for token, tag in output.entities %}
+            <tr>
+                <td>{{ token }}</td>
+                <td>{{ tag }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+
+        <h3>Simplified Meaning</h3>
+        <p>{{ output.meaning }}</p>
+    </div>
+    {% endif %}
+</div>
+
+</body>
+</html>

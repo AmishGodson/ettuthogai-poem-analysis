@@ -1,49 +1,41 @@
+import csv
+import os
+
 class EntityExtractor:
-    def __init__(self, model_path=None):
-        self.model_path = model_path  # BiLSTM (optional for demo)
+    def __init__(self, csv_file="data/paripadal_entities.csv"):
+        self.entity_dict = {}
+
+        if os.path.exists(csv_file):
+            with open(csv_file, encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+
+                print("CSV Columns Found:", reader.fieldnames)
+
+                for row in reader:
+                    # Use your exact column names
+                    token = row.get("Word_Original")
+                    label = row.get("Hierarchical_Entity_Tag")
+
+                    if token and label:
+                        self.entity_dict[token.strip()] = label.strip()
 
     def predict(self, tokens):
-        entity_rules = {
-            # DEITIES
-            "சிவன்": "DEITY",
-            "முருகன்": "DEITY",
-            "பெருமான்": "DEITY",
-            "பிறை": "SYMBOL",
-
-            # WAR / POWER
-            "வேல்": "WEAPON",
-            "மழு": "WEAPON",
-            "போர்": "EVENT",
-
-            # NATURE (important for your poems)
-            "கார்": "NATURE",
-            "மலர்": "NATURE",
-            "முல்லை": "TINAI",
-            "காடு": "NATURE",
-            "மழை": "NATURE",
-            "வானம்": "NATURE",
-            "மலை": "NATURE",
-
-            # ANIMALS
-            "யானை": "ANIMAL",
-            "முதலை": "ANIMAL",
-            "புலி": "ANIMAL",
-            "குரங்கு": "ANIMAL",
-            "பறவை": "ANIMAL",
-
-            # EMOTIONS / ABSTRACT
-            "அஞ்ச": "EMOTION",
-            "துயர்": "EMOTION",
-            "காத்திருப்பு": "EMOTION",
-            "பொய்": "SPEECH"
-        }
-
         tagged = []
+
         for token in tokens:
             tag = "O"
-            for key in entity_rules:
-                if key in token:
-                    tag = entity_rules[key]
+
+            # Exact match
+            if token in self.entity_dict:
+                tag = self.entity_dict[token]
+
+            # Substring match (for Tamil suffix words)
+            else:
+                for key, val in self.entity_dict.items():
+                    if key in token:
+                        tag = val
+                        break
+
             tagged.append((token, tag))
 
         return tagged
