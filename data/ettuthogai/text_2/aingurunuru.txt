@@ -1,0 +1,7661 @@
+POEM_NUMBER: 1
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வாழி ஆதன்! வாழி அவினி!
+2. நெல் பல பொலிக, பொன் பெரிது சிறக்க,
+3. என வேட்டோளே யாயே, யாமே,
+4. நனைய காஞ்சிச் சினைய சிறு மீன்
+5. யாணர் ஊரன் வாழ்க,
+6. பாணனும் வாழ்க, என வேட்டேமே.
+
+---
+
+POEM_NUMBER: 2
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வாழி ஆதன்! வாழி அவினி!
+2. விளைக வயலே, வருக இரவலர்,
+3. என வேட்டோளே யாயே, யாமே,
+4. பல்லிதழ் நீலமொடு நெய்தல் நிகர்க்கும்
+5. தண்துறை ஊரன் கேண்மை,
+6. வழிவழிச் சிறக்க, என வேட்டேமே.
+
+---
+
+POEM_NUMBER: 3
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வாழி ஆதன்! வாழி அவினி!
+2. பால் பல ஊறுக, பகடு பல சிறக்க,
+3. என வேட்டோளே யாயே, யாமே,
+4. வித்திய உழவர் நெல்லொடு பெயரும்
+5. பூக்கஞல் ஊரன், தன் மனை
+6. வாழ்க்கை பொலிக என வேட்டேமே.
+
+---
+
+POEM_NUMBER: 4
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வாழி ஆதன்! வாழி அவினி!
+2. பகைவர் புல் ஆர்க, பார்ப்பார் ஓதுக,
+3. என வேட்டோளே யாயே, யாமே,
+4. பூத்த கரும்பின், காய்த்த நெல்லின்
+5. கழனி ஊரன் மார்பு
+6. பழனம் ஆகற்க, என வேட்டேமே.
+
+---
+
+POEM_NUMBER: 5
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வாழி ஆதன்! வாழி அவினி!
+2. பசியில் ஆகுக, பிணி சேண் நீங்குக,
+3. என வேட்டோளே யாயே, யாமே,
+4. முதலை போத்து முழு மீன் ஆரும்
+5. தண்துறை ஊரன் தேர், எம்
+6. முன்கடை நிற்க, என வேட்டேமே.
+
+---
+
+POEM_NUMBER: 6
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வாழி ஆதன்! வாழி அவினி!
+2. வேந்து பகை தணிக, யாண்டு பல நந்துக,
+3. என வேட்டோளே யாயே, யாமே,
+4. மலர்ந்த பொய்கை முகைந்த தாமரைத்
+5. தண்துறை ஊரன் வரைக,
+6. எந்தையும் கொடுக்க, என வேட்டேமே.
+
+---
+
+POEM_NUMBER: 7
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வாழி ஆதன்! வாழி அவினி!
+2. அறன் நனி சிறக்க, அல்லது கெடுக,
+3. என வேட்டோளே யாயே, யாமே,
+4. உளைப்பூ மருதத்துக் கிளைக் குருகு இருக்கும்
+5. தண்துறை ஊரன், தன்னூர்க்
+6. கொண்டனன் செல்க, என வேட்டேமே.
+
+---
+
+POEM_NUMBER: 8
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வாழி ஆதன்! வாழி அவினி!
+2. அரசு முறை செய்க, களவு இல் ஆகுக,
+3. என வேட்டோளே யாயே, யாமே,
+4. அலங்கு சினை மாஅத்து அணி மயில் இருக்கும்
+5. பூக்கஞல் ஊரன், சூள் இவண்
+6. வாய்ப்பதாக, என வேட்டேமே.
+
+---
+
+POEM_NUMBER: 9
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வாழி ஆதன்! வாழி அவினி!
+2. நன்று பெரிது சிறக்க, தீது இல் ஆகுக,
+3. என வேட்டோளே யாயே, யாமே,
+4. கயல் ஆர் நாரை போர்வில் சேக்கும்
+5. தண்துறை ஊரன் கேண்மை,
+6. அம்பல் ஆகற்க, என வேட்டேமே.
+
+---
+
+POEM_NUMBER: 10
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வாழி ஆதன்! வாழி அவினி!
+2. மாரி வாய்க்க, வளம் நனி சிறக்க,
+3. என வேட்டோளே யாயே, யாமே,
+4. பூத்த மாஅத்துப் புலால் அம் சிறுமீன்
+5. தண்துறை ஊரன், தன்னொடு
+6. கொண்டனன் செல்க, என வேட்டேமே.
+
+---
+
+POEM_NUMBER: 11
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. மனை நடு வயலை வேழம் சுற்றும்
+2. துறை கேழ் ஊரன் கொடுமை நாணி,
+3. நல்லன் என்றும் யாமே,
+4. அல்லன் என்னும் என் தட மென்தோளே.
+
+---
+
+POEM_NUMBER: 12
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. கரை சேர் வேழம் கரும்பின் பூக்கும்
+2. துறை கேழ் ஊரன் கொடுமை நன்றும்
+3. ஆற்றுக தில்ல யாமே,
+4. தோற்க தில்ல, என் தட மென் தோளே.
+
+---
+
+POEM_NUMBER: 13
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. பரியுடை நன்மான் பொங்குளையன்ன
+2. அடைகரை வேழம் வெண்பூப் பகரும்,
+3. தண்துறை ஊரன் பெண்டிர்,
+4. துஞ்சு ஊர் யாமத்தும், துயில் அறியலரே.
+
+---
+
+POEM_NUMBER: 14
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. கொடிப் பூ வேழம் தீண்டி அயல
+2. வடுக்கொண் மாஅத்து வண் தளிர் நுடங்கும்
+3. அணித்துறை ஊரன் மார்பே,
+4. பனித் துயில் செய்யும் இன் சாயற்றே.
+
+---
+
+POEM_NUMBER: 15
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. மணலாடு மலிர்நிறை விரும்பிய ஒண் தழைப்
+2. புனல் ஆடு மகளிர்க்குப் புணர் துணை உதவும்,
+3. வேழ மூதூர் ஊரன்,
+4. ஊரன் ஆயினும், ஊரன் அல்லன்னே.
+
+---
+
+POEM_NUMBER: 16
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. ஓங்குபூ வேழத்துத் தூம்பு உடைத் திரள்கால்
+2. சிறு தொழு மகளிர் அஞ்சனம் பெய்யும்
+3. பூக்கஞல் ஊரனை உள்ளிப்,
+4. பூப் போல் உண்கண் பொன் போர்த்தனவே.
+
+---
+
+POEM_NUMBER: 17
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. புதல் மிசை நுடங்கும் வேழ வெண்பூ
+2. விசும்பு ஆடு குருகின் தோன்றும் ஊரன்,
+3. புதுவோர் மேவலன் ஆகலின்,
+4. வறிதாகின்று என் மடங்கெழு நெஞ்சே.
+
+---
+
+POEM_NUMBER: 18
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. இருஞ்சாய் அன்ன செருந்தியொடு வேழம்
+2. கரும்பின் அலமரும் கழனி ஊரன்,
+3. பொருந்தும் மலர் அன்ன என் கண் அழப்
+4. பிரிந்தனன் அல்லனோ, பிரியலென் என்றே?
+
+---
+
+POEM_NUMBER: 19
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. எக்கர் மாஅத்துப் புதுப் பூம் பெருஞ்சினை
+2. புணர்ந்தோர் மெய்ம் மணங்கமழும் தண் பொழில்,
+3. வேழ வெண்பூ வெள்ளுளை சீக்கும்
+4. ஊரன் ஆகலின், கலங்கி,
+5. மாரி மலரின் கண் பனி உகுமே.
+
+---
+
+POEM_NUMBER: 20
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அறுசில் கால அஞ்சிறைத் தும்பி
+2. நூற்றிதழ்த் தாமரைப் பூச்சினை சீக்கும்
+3. காம்பு கண்டன்ன தூம்பு உடை வேழத்துத்
+4. துறை நணி ஊரனை உள்ளி, என்
+5. இறை ஏர் எல் வளை நெகிழ்பு ஓடும்மே.
+
+---
+
+POEM_NUMBER: 21
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. முள்ளி நீடிய முதுநீர் அடைகரைப்
+2. புள்ளிக் களவன் ஆம்பல் அறுக்கும்,
+3. தண்துறை ஊரன் தெளிப்பவும்,
+4. உண்கண் பசப்பது, எவன் கொல் அன்னாய்?
+
+---
+
+POEM_NUMBER: 22
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அள்ளல் ஆடிய புள்ளிக் களவன்,
+2. முள்ளி வேரளைச் செல்லும் ஊரன்,
+3. நல்ல சொல்லி மணந்து, இனி
+4. நீயேன் என்றது, எவன் கொல் அன்னாய்?
+
+---
+
+POEM_NUMBER: 23
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. முள்ளி வேர் அளைக் களவன் ஆட்டிப்
+2. பூக்குற்று எய்திய புனல் அணி ஊரன்,
+3. தேற்றம் செய்து நப்புணர்ந்து, இனித்
+4. தாக்கணங்கு ஆவது, எவன் கொல் அன்னாய்?
+
+---
+
+POEM_NUMBER: 24
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. தாய் சாப் பிறக்கும் புள்ளிக் களவனொடு,
+2. பிள்ளை தின்னும் முதலைத்து அவனூர்,
+3. எய்தினன் ஆகின்று கொல்லோ? மகிழ்நன்
+4. பொலந்தொடி தெளிர்ப்ப முயங்கியவர்
+5. நலங்கொண்டு துறப்பது, எவன் கொல் அன்னாய்?
+
+---
+
+POEM_NUMBER: 25
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அயல் புறந்தந்த புனிற்று வளர் பைங்காய்
+2. வயலைச் செங்கொடி களவன் அறுக்கும்,
+3. கழனி ஊரன் மார்பு, பலர்க்கு
+4. இழை நெகிழ் செல்லல் ஆகும் அன்னாய்.
+
+---
+
+POEM_NUMBER: 26
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. கரந்தை அம் செறுவில் துணை துறந்து, களவன்
+2. வள்ளை மென் கால் அறுக்கும் ஊரன்,
+3. எம்மும் பிறரும் அறியான்,
+4. இன்னன் ஆவது, எவன் கொல் அன்னாய்?
+
+---
+
+POEM_NUMBER: 27
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. செந்நெல் அம் செறுவில் கதிர் கொண்டு, களவன்
+2. தண் அக மண் அளைச் செல்லும் ஊரற்கு,
+3. எல் வளை நெகிழச் சாஅய்,
+4. அல்லல் உழப்பது எவன் கொல் அன்னாய்?
+
+---
+
+POEM_NUMBER: 28
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. உண் துறை அணங்கு இவள் உறை நோய் ஆயின்,
+2. தண் சேறு களவன் வரிக்கும் ஊரற்கு,
+3. ஒண்தொடி நெகிழச் சாஅய்
+4. மென் தோள் பசப்பது, எவன் கொல் அன்னாய்?
+
+---
+
+POEM_NUMBER: 29
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. மாரி கடி கொளக் காவலர் கடுக,
+2. வித்திய வெண்முளை களவன் அறுக்கும்,
+3. கழனி ஊரன் மார்புற மரீஇத்,
+4. திதலை அல்குல் நின் மகள்
+5. பசலை கொள்வது, எவன் கொல் அன்னாய்?
+
+---
+
+POEM_NUMBER: 30
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வேப்பு நனை அன்ன நெடுங்கண் களவன்,
+2. தண் அக மண் அளை நிறைய நெல்லின்
+3. இரும் பூ உறைக்கும் ஊரற்கு, இவள்
+4. பெருங்கவின் இழப்பது, எவன் கொல் அன்னாய்?
+
+---
+
+POEM_NUMBER: 31
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம்ம வாழி தோழி! மகிழ்நன்
+2. கடன் அன்று என்னும் கொல்லோ,
+3. நம் ஊர் முட முதிர் மருதத்துப் பெருந்துறை
+4. உடனாடு ஆயமோடு உற்ற சூளே?
+
+---
+
+POEM_NUMBER: 32
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம்ம வாழி தோழி! மகிழ்நன்
+2. ஒரு நாள் நம் இல் வந்ததற்கு, எழு நாள்
+3. அழுப என்ப அவன் பெண்டிர்,
+4. தீ உறு மெழுகின் ஞெகிழ்வனர் விரைந்தே.
+
+---
+
+POEM_NUMBER: 33
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம்ம வாழி தோழி! மகிழ்நன்
+2. மருது உயர்ந்து ஓங்கிய விரி பூம் பெருந்துறைப்
+3. பெண்டிரோடு ஆடும் என்ப, தன்
+4. தண் தார் அகலம் தலைத்தலைக் கொளவே.
+
+---
+
+POEM_NUMBER: 34
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம்ம வாழி தோழி! நம் ஊர்ப்
+2. பொய்கைப் பூத்த புழைக்கால் ஆம்பல்
+3. தாது ஏர் வண்ணம் கொண்டன,
+4. ஏதிலாளர்க்குப் பசந்த என் கண்ணே.
+
+---
+
+POEM_NUMBER: 35
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம்ம வாழி தோழி! நம் ஊர்ப்
+2. பொய்கை ஆம்பல் நார் உரி மென் கால்
+3. நிறத்தினும் நிழற்றுதல் மன்னே,
+4. இனிப் பசந்தன்று, என் மாமைக் கவினே.
+
+---
+
+POEM_NUMBER: 36
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம்ம வாழி தோழி! ஊரன்
+2. நம் மறந்து அமைகுவன் ஆயின், நாம் மறந்து
+3. உள்ளாது அமைதலும் அமைகுவம் மன்னே,
+4. கயல் எனக் கருதிய உண்கண்,
+5. பசலைக்கு ஒல்கா ஆகுதல் பெறினே.
+
+---
+
+POEM_NUMBER: 37
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம்ம வாழி தோழி! மகிழ்நன்
+2. நயந்தோர் உண்கண் பசந்து பனி மல்க
+3. வல்லன் வல்லன், பொய்த்தல்
+4. தேற்றான் உற்ற சூள் வாய்த்தல்லே.
+
+---
+
+POEM_NUMBER: 38
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம்ம வாழி தோழி! மகிழ்நன்
+2. தன் சொல் உணர்ந்தோர் அறியலன் என்றும்,
+3. தண்தளிர் வெளவும் மேனி,
+4. ஒண்தொடி முன் கை யாம், அழப் பிரிந்தே.
+
+---
+
+POEM_NUMBER: 39
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம்ம வாழி தோழி! ஊரன்
+2. வெம்முலை அடைய முயங்கி நம்வயின்
+3. திருந்திழைப் பணைத்தோள் ஞெகிழப்
+4. பிரிந்தனன் ஆயினும், பிரியலன் மன்னே.
+
+---
+
+POEM_NUMBER: 40
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம்ம வாழி தோழி! மகிழ்நன்
+2. ஒண்தொடி முன் கை யாம் அழப் பிரிந்து, தன்
+3. பெண்டிர் ஊர் இறை கொண்டனன் என்ப,
+4. கெண்டை பாய்தர அவிழ்ந்த
+5. வண்டு பிணி ஆம்பல் நாடு கிழவோனே.
+
+---
+
+POEM_NUMBER: 41
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. தன் பார்ப்புத் தின்னும் அன்பு இல் முதலையொடு
+2. வெண்பூம் பொய்கைத்து அவன் ஊர் என்ப, அதனால்
+3. தன் சொல் உணர்ந்தோர் மேனி
+4. பொன் போல் செய்யும் ஊர் கிழவோனே.
+
+---
+
+POEM_NUMBER: 42
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. மகிழ் மிகச் சிறப்ப மயங்கினள் கொல்லோ
+2. யாணர் ஊர, நின் மாண் இழை அரிவை?
+3. காவிரி மலிர் நிறை அன்ன நின்
+4. மார்பு நனி விலக்கல் தொடங்கியோளே.
+
+---
+
+POEM_NUMBER: 43
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம்பணத்து அன்ன யாமை ஏறிச்,
+2. செம்பின் அன்ன பார்ப்புப் பல துஞ்சும்
+3. யாணர் ஊர! நின்னினும்
+4. பாணன் பொய்யன், பல் சூளினனே.
+
+---
+
+POEM_NUMBER: 44
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. தீம் பெரும் பொய்கை யாமை இளம் பார்ப்புத்,
+2. தாய் முகம் நோக்கி வளர்ந்திசினாஅங்கு,
+3. அதுவே ஐய நின் மார்பே,
+4. அறிந்தனை ஒழுகுமதி, அறனுமார் அதுவே.
+
+---
+
+POEM_NUMBER: 45
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. கூதிர் ஆயின் தண் கலிழ் தந்து,
+2. வேனில் ஆயின் மணி நிறம் கொள்ளும்
+3. யாறு அணிந்தன்று நின் ஊரே!
+4. பசப்பு அணிந்தனவால் மகிழ்ந என் கண்ணே.
+
+---
+
+POEM_NUMBER: 46
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. நினக்கே அன்று அஃது எமக்குமார் இனிதே,
+2. நின் மார்பு நயந்த நன்னுதல் அரிவை
+3. வேண்டிய குறிப்பினை ஆகி,
+4. ஈண்டு நீ அருளாது, ஆண்டு உறைதல்லே.
+
+---
+
+POEM_NUMBER: 47
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. முள்ளெயிற்றுப் பாண் மகள் இன் கெடிறு சொரிந்த
+2. அகன் பெரு வட்டி நிறைய, மனையோள்
+3. அரிகால் பெரும் பயறு நிறைக்கும் ஊர!
+4. மாண் இழை ஆயம் அறியும், நின்
+5. பாணன் போலப் பல பொய்த்தல்லே.
+
+---
+
+POEM_NUMBER: 48
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வலை வல் பாண்மகன் வால் எயிற்று மடமகள்
+2. வராஅல் சொரிந்த வட்டியுள், மனையோள்
+3. யாண்டு கழி வெண்ணெல் நிறைக்கும் ஊர!
+4. வேண்டேம் பெரும, நின் பரத்தை
+5. யாண்டுச் செய் குறியோடு, ஈண்டு நீ வரலே.
+
+---
+
+POEM_NUMBER: 49
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம் சில் ஓதி அசை நடைப் பாண்மகள்,
+2. சில் மீன் சொரிந்து, பல் நெல் பெறூஉம்
+3. யாணர் ஊர! நின் பாண்மகன்
+4. யார் நலம் சிதையப் பொய்க்குமோ இனியே?
+
+---
+
+POEM_NUMBER: 50
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. துணையோர் செல்வமும் யாமும் வருந்துதும்,
+2. வஞ்சி ஓங்கிய யாணர் ஊர!
+3. தஞ்சம் அருளாய் நீயே, நின்
+4. நெஞ்சம் பெற்ற இவளுமார் அழுமே.
+
+---
+
+POEM_NUMBER: 51
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. நீர் உறை கோழி நீலச் சேவல்
+2. கூர் உகிர்ப் பேடை வயாஅம் ஊர!
+3. புளிங்காய் வேட்கைத்தன்று நின்
+4. மலர்ந்த மார்பு, இவள் வயாஅ நோய்க்கே.
+
+---
+
+POEM_NUMBER: 52
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வயலைச் செங்கொடிப் பிணையல் தைஇச்,
+2. செவ்விரல் சிவந்த, சேய் அரி மழைக்கண்,
+3. செவ்வாய்க் குறுமகள் இனைய,
+4. எவ்வாய் முன்னின்று மகிழ்ந, நின் தேரே?
+
+---
+
+POEM_NUMBER: 53
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. துறை எவன் அணங்கும் யாம் உற்ற நோயே?
+2. சிறை அழி புதுப் புனல் பாய்ந்தெனக் கலங்கிக்
+3. கழனித் தாமரை மலரும்
+4. பழன ஊர, நீ உற்ற சூளே!
+
+---
+
+POEM_NUMBER: 54
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. திண்தேர்த் தென்னவன் நன்னாட்டு உள்ளதை
+2. வேனில் ஆயினும் தண் புனல் ஒழுகும்
+3. தேனூர் அன்ன இவள் தெரி வளை நெகிழ,
+4. ஊரின் ஊரனை, நீ தர வந்த
+5. பஞ்சாய்க் கோதை மகளிர்க்கு
+6. அஞ்சுவல் அம்ம, அம்முறை வரினே.
+
+---
+
+POEM_NUMBER: 55
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. கரும்பின் எந்திரம் களிற்று எதிர் பிளிற்றும்
+2. தேர் வண் கோமான் தேனூர் அன்ன இவள்
+3. நல் அணி நயந்து நீ துறத்தலின்,
+4. பல்லோர் அறியப் பசந்தன்று நுதலே.
+
+---
+
+POEM_NUMBER: 56
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. பகல் கொள் விளக்கோடு இரா நாள் அறியா
+2. வெல்போர்ச் சோழர் ஆமூர் அன்ன இவள்
+3. நலம் பெறு சுடர்நுதல் தேம்ப,
+4. எவன் பயம் செய்யும் நீ தேற்றிய மொழியே?
+
+---
+
+POEM_NUMBER: 57
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. பகலின் தோன்றும் பல் கதிர்த் தீயின்
+2. ஆம்பல் அம் செறுவின் தேனூர் அன்ன
+3. இவள் நலம் புலம்பப் பிரிய,
+4. அனை நலம் உடையளோ மகிழ்ந, நின் பெண்டே?
+
+---
+
+POEM_NUMBER: 58
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. விண்டு அன்ன வெண்ணெல் போர்வின்
+2. கைவண் விராஅன் இருப்பை அன்ன
+3. இவள் அணங்கு உற்றனை போறி,
+4. பிறர்க்கும் அனையையால் வாழி நீயே.
+
+---
+
+POEM_NUMBER: 59
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. கேட்டிசின் வாழியோ மகிழ்ந! ஆற்றுற
+2. மையல் நெஞ்சிற்கு எவ்வம் தீர
+3. நினக்கு மருந்தாகிய யான், இனி,
+4. இவட்கு மருந்து அன்மை, நோம் என் நெஞ்சே.
+
+---
+
+POEM_NUMBER: 60
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. பழனக் கம்புள் பயிர்ப் பெடை அகவும்
+2. கழனி ஊர! நின் மொழிவல் என்றும்
+3. துஞ்சு மனை நெடுநகர் வருதி,
+4. அஞ்சாயோ இவள் தந்தை கை வேலே?
+
+---
+
+POEM_NUMBER: 61
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. நறு வடி மாஅத்து விளைந்து உகு தீம்பழம்
+2. நெடு நீர்ப் பொய்கைத் துடுமென விழூஉம்,
+3. கைவண் மத்தி கழாஅர் அன்ன,
+4. நல்லோர் நல்லோர் நாடி,
+5. வதுவை அயர விரும்புதி நீயே.
+
+---
+
+POEM_NUMBER: 62
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. இந்திர விழவின் பூவின் அன்ன,
+2. புன்தலைப் பேடை வரி நிழல் அகவும்,
+3. இவ்வூர் மங்கையர்த் தொகுத்து, இனி
+4. எவ்வூர் நின்றன்று மகிழ்ந நின் தேரே?
+
+---
+
+POEM_NUMBER: 63
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. பொய்கைப் பள்ளிப் புலவு நாறு நீர்நாய்,
+2. வாளை நாள் இரை பெறூஉம் ஊர!
+3. எம் நலம் தொலைவது ஆயினும்,
+4. துன்னலம் பெரும, பிறர்த் தோய்ந்த மார்பே.
+
+---
+
+POEM_NUMBER: 64
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அலமரல் ஆயமோடு அமர் துணை தழீஇ,
+2. நல மிகு புதுப் புனல் ஆடக் கண்டோர்,
+3. ஒருவரும் இருவரும் அல்லர்,
+4. பலரே தெய்ய, எம் மறையாதீமே!
+
+---
+
+POEM_NUMBER: 65
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. கரும்பு நடு பாத்தியில் கலித்த ஆம்பல்
+2. சுரும்பு பசி களையும் பெரும் புனல் ஊர!
+3. புதல்வனை ஈன்ற எம் மேனி
+4. முயங்கன்மோ, தெய்ய, நின் மார்பு சிதைப்பதுவே.
+
+---
+
+POEM_NUMBER: 66
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. உடலினென் அல்லேன், பொய்யாது உரைமோ,
+2. யார் அவள் மகிழ்ந, தானே தேரொடு,
+3. தளர் நடைப் புதல்வனை உள்ளி, நின்
+4. வள மனை வருதலும், வெளவியோளே?
+
+---
+
+POEM_NUMBER: 67
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. மடவள் அம்ம நீ இனிக் கொண்டோளே,
+2. தன்னொடு நிகரா என்னொடு நிகரிப்
+3. பெரு நலம் தருக்கும் என்ப, விரி மலர்த்
+4. தாது உண் வண்டினும் பலரே,
+5. ஓதி ஒண்ணுதல் பசப்பித்தோரே.
+
+---
+
+POEM_NUMBER: 68
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. கன்னி விடியல் கணைக் கால் ஆம்பல்,
+2. தாமரை போல மலரும் ஊர!
+3. பேணாளோ நின் பெண்டே,
+4. யான் தன் அடக்கவும், தான் அடங்கலளே.
+
+---
+
+POEM_NUMBER: 69
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. கண்டனெம் அல்லமோ மகிழ்ந, நின் பெண்டே,
+2. பலர் ஆடு பெருந்துறை மலரொடு வந்த
+3. தண் புனல் வண்டல் உய்த்தென,
+4. உண்கண் சிவப்ப, அழுது நின்றோளே.
+
+---
+
+POEM_NUMBER: 70
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. பழனப் பன் மீன் அருந்த நாரை,
+2. கழனி மருதின் சென்னிச் சேக்கும்,
+3. மா நீர்ப் பொய்கை யாணர் ஊர!
+4. தூயர் நறியர் நின் பெண்டிர்,
+5. பேஎய் அனையம் யாம், சேய் பயந்தனமே.
+
+---
+
+POEM_NUMBER: 71
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. சூது ஆர் குறுந்தொடிச் சூரமை நுடக்கத்து,
+2. நின் வெங்காதலி தழீஇ, நெருநை
+3. ஆடினை என்ப புனலே, அலரே
+4. மறைத்தல் ஒல்லுமோ மகிழ்ந,
+5. புதைத்தல் ஒல்லுமோ ஞாயிற்றது ஒளியே?
+
+---
+
+POEM_NUMBER: 72
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வயல் மலர் ஆம்பல் கயில் அமை நுடங்கு தழைத்
+2. திதலை அல்குல், துயல்வரும் கூந்தல்,
+3. குவளை உண்கண், ஏஎர் மெல்லியல்,
+4. மலர் ஆர் மலிர் நிறை வந்தெனப்,
+5. புனலாடு புணர் துணை ஆயினள் எமக்கே.
+
+---
+
+POEM_NUMBER: 73
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வண்ண ஒண் தழை நுடங்க, வால் இழை,
+2. ஒண்ணுதல் அரிவை, பண்ணை பாய்ந்தெனக்,
+3. கள் நறுங்குவளை நாறித்
+4. தண் என்றிசினே, பெருந்துறைப் புனலே.
+
+---
+
+POEM_NUMBER: 74
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. விசும்பு இழி தோகைச் சீர் போன்றிசினே,
+2. பசும் பொன் அவிர் இழை பைய நிழற்றக்,
+3. கரை சேர் மருதம் ஏறிப்
+4. பண்ணை பாய்வோள், தண் நறும் கதுப்பே.
+
+---
+
+POEM_NUMBER: 75
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. பலர் இவண் ஒவ்வாய் மகிழ்ந, அதனால்
+2. அலர் தொடங்கின்றால் ஊரே, மலர
+3. தொன்னிலை மருதத்துப் பெருந்துறை
+4. நின்னோடு ஆடினள் தண் புனல் அதுவே.
+
+---
+
+POEM_NUMBER: 76
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. பஞ்சாய்க் கூந்தல், பசுமலர்ச் சுணங்கின்,
+2. தண் புனல் ஆடித் தன் நலம் மேம்பட்டனள்,
+3. ஒண்தொடி மடவரல், நின்னோடு,
+4. அந்தர மகளிர்க்குத் தெய்வமும் போன்றே.
+
+---
+
+POEM_NUMBER: 77
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம்ம வாழியோ, மகிழ்ந! நின் மொழிவல்!
+2. பேரூர் அலர் எழ நீரலைக் கலங்கி,
+3. நின்னொடு தண் புனல் ஆடுதும்,
+4. எம்மோடு சென்மோ, செல்லல் நின் மனையே.
+
+---
+
+POEM_NUMBER: 78
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. கதிர் இலை நெடுவேல் கடுமான் கிள்ளி
+2. மதில் கொல் யானையின், கதழ்பு நெறி வந்த
+3. சிறை அழி புதுப் புனல் ஆடுகம்,
+4. எம்மொடு கொண்மோ, எம் தோள் புரை புணையே.
+
+---
+
+POEM_NUMBER: 79
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. புதுப்புனல் ஆடி அமர்த்த கண்ணள்,
+2. யார் மகள் இவளெனப் பற்றிய மகிழ்ந!
+3. யார் மகள் ஆயினும் அறியாய்,
+4. நீ யார் மகனை, எம் பற்றியோயே?
+
+---
+
+POEM_NUMBER: 80
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. புலக்குவெம் அல்லேம், பொய்யாது உரைமோ,
+2. நலத்தகு மகளிர்க்குத் தோள் துணை ஆகித்,
+3. தலைப் பெயல் செம் புனல் ஆடித்,
+4. தவ நனி சிவந்தன மகிழ்ந, நின் கண்ணே.
+
+---
+
+POEM_NUMBER: 81
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. குருகு உடைத்து உண்ட வெள் அகட்டு யாமை,
+2. அரிப் பறை வினைஞர் அல்கு மிசைக் கூட்டும்,
+3. மலர் அணி வாயில் பொய்கை ஊர! நீ
+4. என்னை நயந்தனென் என்றி நின்
+5. மனையோள் கேட்கின், வருந்துவள் பெரிதே.
+
+---
+
+POEM_NUMBER: 82
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வெகுண்டனள் என்ப பாண, நின் தலைமகள்,
+2. மகிழ்நன் மார்பின் அவிழ் இணர் நறும் தார்த்
+3. தாது உண் பறவை வந்து, எம்
+4. போது ஆர் கூந்தல் இருந்தன எனவே.
+
+---
+
+POEM_NUMBER: 83
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. மணந்தனை அருளாய் ஆயினும், பைபையத்
+2. தணந்தனை ஆகி உய்ம்மோ நம்மூர்,
+3. ஒண்தொடி முன் கை ஆயமும்,
+4. தண்துறை ஊரன் பெண்டு எனப்படற்கே.
+
+---
+
+POEM_NUMBER: 84
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. செவியின் கேட்பினும் சொல் இறந்து வெகுள்வோள்,
+2. கண்ணிற் காணின் என் ஆகுவள் கொல்,
+3. நறு வீ ஐம்பால் மகளிர் ஆடும்
+4. தைஇத் தண் கயம் போலப்,
+5. பலர் படிந்து உண்ணு, நின் பரத்தை மார்பே?
+
+---
+
+POEM_NUMBER: 85
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வெண் நுதல் கம்புள் அரிக்குரல் பேடை,
+2. தண் நறும் பழனத்துக் கிளையோடு ஆலும்,
+3. மறு இல் யாணர் மலி கேழ் ஊர! நீ
+4. சிறுவரின் இனைய செய்தி,
+5. நகாரோ பெரும, நின் கண்டிசினோரே?
+
+---
+
+POEM_NUMBER: 86
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வெண்தலைக் குருகின் மென்பறை விளிக் குரல்,
+2. நீள் வயல் நண்ணி இமிழும் ஊர!
+3. எம் இவண் நல்குதல் அரிது,
+4. நும் மனை மடந்தையொடு தலைப்பெய்தீமே.
+
+---
+
+POEM_NUMBER: 87
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. பகன்றைக் கண்ணிப் பல் ஆன் கோவலர்,
+2. கரும்பு குணிலா மாங்கனி உதிர்க்கும்
+3. யாணர் ஊர! நின் மனையோள்
+4. யாரையும் புலக்கும், எம்மை மற்று எவனோ?
+
+---
+
+POEM_NUMBER: 88
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. வண்டு உறை நயவரும் வள மலர்ப் பொய்கைத்
+2. தண்துறை ஊரனை, எவ்வை, எம் வயின்
+3. வருதல் வேண்டுதும் என்ப,
+4. ஒல்லேம் போல் யாம் அது வேண்டுதுமே.
+
+---
+
+POEM_NUMBER: 89
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அம்ம வாழி பாண! எவ்வைக்கு
+2. எவன் பெரிது அளிக்கும் என்ப, பழனத்து
+3. வண்டு தாது ஊதும் ஊரன்
+4. பெண்டென விரும்பின்று அவள் தன் பண்பே.
+
+---
+
+POEM_NUMBER: 90
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. மகிழ்நன் மாண் குணம் வண்டு கொண்டன கொல்?
+2. வண்டின் மாண் குணம் மகிழ்நன் கொண்டான் கொல்?
+3. அன்னது ஆகலும் அறியாள்,
+4. எம்மொடு புலக்கும் அவன் புதல்வன் தாயே.
+
+---
+
+POEM_NUMBER: 91
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. நெறி மருப்பு எருமை நீல இரும் போத்து,
+2. வெறி மலர்ப் பொய்கை ஆம்பல் மயக்கும்,
+3. கழனி ஊரன் மகள் இவள்,
+4. பழன வெதிரின் கொடிப் பிணையலளே.
+
+---
+
+POEM_NUMBER: 92
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. கருங்கோட்டு எருமைச் செங்கண் புனிற்று ஆக்
+2. காதல் குழவிக்கு ஊறு முலை மடுக்கும்,
+3. நுந்தை நும் ஊர் வருதும்,
+4. ஒண்தொடி மடந்தை, நின்னை யாம் பெறினே.
+
+---
+
+POEM_NUMBER: 93
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. எருமை நல் ஏற்று இனம் மேயல் அருந்தெனப்,
+2. பசு மோரோடமோடு ஆம்பல் ஒல்லா
+3. செய்த வினைய, மன்ற பல் பொழில்
+4. தாது உண் வெறுக்கைய ஆகி, இவள்
+5. போது அவிழ் முச்சி ஊதும் வண்டே.
+
+---
+
+POEM_NUMBER: 94
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. மள்ளர் அன்ன தடங்கோட்டு எருமை
+2. மகளிர் அன்ன துணையொடு வதியும்
+3. நிழல் முதிர் இலஞ்சிப் பழனத்ததுவே
+4. கழனித் தாமரை மலரும்,
+5. கவின் பெறு சுடர்நுதல் தந்தை ஊரே.
+
+---
+
+POEM_NUMBER: 95
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. கருங்கோட்டு எருமை கயிறு பரிந்து அசைஇ
+2. நெடுங்கதிர் நெல்லின் நாள் மேயல் ஆரும்,
+3. புனல் முற்று ஊரன், பகலும்
+4. படர் மலி அரு நோய் செய்தனன், எமக்கே.
+
+---
+
+POEM_NUMBER: 96
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. அணி நடை எருமை ஆடிய அள்ளல்
+2. மணி நிற நெய்தல் ஆம்பலொடு கலிக்கும்,
+3. கழனி ஊரன் மகள் இவள்,
+4. பழன ஊரன் பாயல் இன் துணையே.
+
+---
+
+POEM_NUMBER: 97
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. பகன்றை வான் மலர் மிடைந்த கோட்டைக்
+2. கருந்தாள் எருமைக் கன்று வெரூஉம்,
+3. பொய்கை ஊரன் மகள் இவள்,
+4. பொய்கைப் பூவினும் நறுந்தண்ணியளே.
+
+---
+
+POEM_NUMBER: 98
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. தண் புனல் ஆடும் தடங்கோட்டு எருமை,
+2. திண் பிணி அம்பியின் தோன்றும் ஊர!
+3. ஒண்தொடி மடமகள் இவளினும்,
+4. நுந்தையும் யாயும் கடியரோ நின்னே?
+
+---
+
+POEM_NUMBER: 99
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. பழனப் பாகல் முயிறு மூசு குடம்பை
+2. கழனி எருமை கதிரொடு மயக்கும்,
+3. பூக்கஞல் ஊரன் மகள் இவள்,
+4. நோய்க்கு மருந்தாகிய பணைத் தோளோளே.
+
+---
+
+POEM_NUMBER: 100
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓரம்போகியார்
+AUTHOR_ENGLISH: Ōrampōkiyār
+CATEGORY: Agam
+TINAI: Marutham
+
+LINES:
+1. புனல் ஆடு மகளிர் இட்ட ஒள்ளிழை,
+2. மணல் ஆடு சிமையத்து எருமை கிளைக்கும்,
+3. யாணர் ஊரன் மகள் இவள்,
+4. பாணர் நரம்பினும் இன் கிளவியளே.
+
+---
+
+POEM_NUMBER: 101
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அன்னை வாழி! வேண்டு அன்னை! உதுக்காண்!
+2. ஏர் கொடிப் பாசடும்பு பரிய ஊர்பு இழிபு,
+3. நெய்தல் மயக்கி வந்தன்று, நின் மகள்
+4. பூப் போல் உண்கண் மரீஇய
+5. நோய்க்கு மருந்தாகிய, கொண்கன் தேரே.
+
+---
+
+POEM_NUMBER: 102
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அன்னை வாழி! வேண்டு அன்னை! நம் ஊர்
+2. நீல் நிறப் பெருங்கடல் புள்ளின் ஆனாது,
+3. துன்புறு துயரம் நீங்க,
+4. இன்புற இசைக்கும், அவர் தேர் மணிக் குரலே.
+
+---
+
+POEM_NUMBER: 103
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அன்னை வாழி! வேண்டு அன்னை! புன்னையொடு
+2. ஞாழல் பூக்கும் தண்ணந்துறைவன்
+3. இவட்கு அமைந்தனனால், தானே
+4. தனக்கு அமைந்ததன்று இவள் மாமைக் கவினே.
+
+---
+
+POEM_NUMBER: 104
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அன்னை வாழி! வேண்டு அன்னை! நம் ஊர்ப்
+2. பலர் மடிபொழுதின் நலம் மிகச் சாஅய்,
+3. நள்ளென வந்த இயல்தேர்ச்
+4. செல்வக் கொண்கன் செல்வன் அஃது ஊரே.
+
+---
+
+POEM_NUMBER: 105
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அன்னை வாழி! வேண்டு அன்னை! முழங்கு கடல்
+2. திரைதரு முத்தம் வெண்மணல் இமைக்கும்
+3. தண்ணந்துறைவன் வந்தெனப்,
+4. பொன்னினும் சிவந்தன்று, கண்டிசின் நுதலே.
+
+---
+
+POEM_NUMBER: 106
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அன்னை வாழி! வேண்டு அன்னை! அவர் நாட்டுத்
+2. துதிக்கால் அன்னம் துணை செத்து மிதிக்கும்
+3. தண் கடல் வளையினும் இலங்கும், இவள்
+4. அம் கலிழ் ஆகம், கண்டிசின் நினைந்தே.
+
+---
+
+POEM_NUMBER: 107
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அன்னை வாழி! வேண்டு அன்னை! என் தோழி
+2. சுடர்நுதல் பசப்பச் சாஅய்ப் படர் மெலிந்து,
+3. தண் கடல் படுதிரை கேட்டொறும்
+4. துஞ்சாள் ஆகுதல், நோகோ யானே.
+
+---
+
+POEM_NUMBER: 108
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அன்னை வாழி! வேண்டு அன்னை! கழிய
+2. முண்டகம் மலரும் தண் கடல் சேர்ப்பன்
+3. எம் தோள் துறந்தனன் ஆயின்,
+4. எவன் கொல் மற்று, அவன் நயந்த தோளே?
+
+---
+
+POEM_NUMBER: 109
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அன்னை வாழி! வேண்டு அன்னை! நெய்தல்
+2. நீர்ப்படர் தூம்பின் பூக்கெழு துறைவன்
+3. எந்தோள் துறந்த காலை, எவன் கொல்
+4. பன்னாள் வரும் அவன் அளித்த பொழுதே?
+
+---
+
+POEM_NUMBER: 110
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அன்னை வாழி! வேண்டு அன்னை! புன்னை
+2. பொன்னிறம் விரியும் பூக்கெழு துறைவனை
+3. 'என்னை' என்றும் யாமே, இவ்வூர்
+4. பிறிது ஒன்றாகக் கூறும்
+5. ஆங்கும் ஆக்குமோ? வாழிய பாலே.
+
+---
+
+POEM_NUMBER: 111
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அம்ம வாழி தோழி! பாணன்
+2. சூழ்கழி மருங்கின் நாண் இரை கொளீஇச்
+3. சினைக் கயல் மாய்க்கும் துறைவன் கேண்மை,
+4. பிரிந்தும் வாழ்துமோ நாமே,
+5. அருந்தவம் முயறல் ஆற்றாதேமே?
+
+---
+
+POEM_NUMBER: 112
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அம்ம வாழி தோழி! பாசிலைச்
+2. செருந்தி தாய இருங்கழிச் சேர்ப்பன்
+3. தான் வரக் காண்குவம் நாமே,
+4. மறந்தோம் மன்ற நாணுடை நெஞ்சே.
+
+---
+
+POEM_NUMBER: 113
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அம்ம வாழி தோழி! நென்னல்
+2. ஓங்கு திரை வெண்மணல் உடைக்கும் துறைவற்கு
+3. ஊரார் பெண்டென மொழிய, என்னை
+4. அது கேட்ட 'அன்னாய்' என்றனள் அன்னை,
+5. பைபய 'எம்மை' என்றனென் யானே.
+
+---
+
+POEM_NUMBER: 114
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அம்ம வாழி தோழி! கொண்கன்
+2. நேரேம் ஆயினும், செல்குவம் கொல்லோ,
+3. கடலின் நாரை இரற்றும்
+4. மடலம் பெண்ணை அவனுடை நாட்டே?
+
+---
+
+POEM_NUMBER: 115
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அம்ம வாழி தோழி! பன் மாண்
+2. நுண் மணல் அடைகரை நம்மோடு ஆடிய
+3. தண்ணந்துறைவன் மறைஇ,
+4. அன்னை அருங்கடி வந்து நின்றோனே.
+
+---
+
+POEM_NUMBER: 116
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அம்ம வாழி தோழி! நாம் அழ,
+2. நீல இருங்கழி நீலம் கூம்பும்
+3. மாலை வந்தன்று மன்ற,
+4. காலையன்ன காலை முந்துறுத்தே.
+
+---
+
+POEM_NUMBER: 117
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அம்ம வாழி தோழி! நலனே
+2. இன்னது ஆகுதல் கொடிதே, புன்னை
+3. அணி மலர் துறைதொறும் வரிக்கும்
+4. மணி நீர்ச் சேர்ப்பனை மறவாதோர்க்கே.
+
+---
+
+POEM_NUMBER: 118
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அம்ம வாழி தோழி! யான் இன்று
+2. அறன் இலாளன் கண்ட பொழுதில்,
+3. சினவுவென், தகைக்குவென் சென்றனென்,
+4. பின் நினைந்து, இரங்கிப் பெயர்தந்தேனே.
+
+---
+
+POEM_NUMBER: 119
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அம்ம வாழி தோழி! நன்றும்
+2. எய்யாமையின் ஏதில பற்றி,
+3. அன்பிலன் மன்ற பெரிதே,
+4. மென்புலக் கொண்கன் வாராதோனே.
+
+---
+
+POEM_NUMBER: 120
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அம்ம வாழி தோழி! நல மிக
+2. நல்ல ஆயின அளிய மென்தோளே,
+3. மல்லல் இருங்கழி நீர் அறல் விரியும்
+4. மெல்லம்புலம்பன் வந்தமாறே.
+
+---
+
+POEM_NUMBER: 121
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கண்டிகும் அல்லமோ கொண்க, நின் கேளே,
+2. முண்டகக் கோதை நனையத்,
+3. தெண் திரைப் பௌவம் பாய்ந்து நின்றோளே?
+
+---
+
+POEM_NUMBER: 122
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கண்டிகும் அல்லமோ கொண்க, நின் கேளே,
+2. ஒள்ளிழை உயர் மணல் வீழ்ந்தென,
+3. வெள்ளாங்குருகை வினவுவோளே?
+
+---
+
+POEM_NUMBER: 123
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கண்டிகும் அல்லமோ கொண்க, நின் கேளே,
+2. ஒண்ணுதல் ஆயம் ஆர்ப்பத்,
+3. தண்ணென் பெருங்கடல் திரை பாய்வோளே?
+
+---
+
+POEM_NUMBER: 124
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கண்டிகும் அல்லமோ கொண்க, நின் கேளே,
+2. வண்டல் பாவை வெளவலின்,
+3. நுண் பொடி அளைஇக் கடல் தூர்ப்போளே?
+
+---
+
+POEM_NUMBER: 125
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கண்டிகும் அல்லமோ கொண்க, நின் கேளே,
+2. தெண் திரை பாவை வெளவ,
+3. உண்கண் சிவப்ப அழுது நின்றோளே?
+
+---
+
+POEM_NUMBER: 126
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கண்டிகும் அல்லமோ கொண்க, நின் கேளே,
+2. உண்கண் வண்டினம் மொய்ப்பத்,
+3. தெண் கடல் பெருந்திரை மூழ்குவோளே?
+
+---
+
+POEM_NUMBER: 127
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கண்டிகும் அல்லமோ கொண்க நின் கேளே,
+2. தும்பை மாலை இளமுலை,
+3. நுண் பூண் ஆகம் விலங்குவோளே?
+
+---
+
+POEM_NUMBER: 128
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கண்டிகும் அல்லமோ கொண்க, நின் கேளே,
+2. உறாஅ வறுமுலை மடாஅ,
+3. உண்ணாப் பாவையை ஊட்டுவோளே?
+
+---
+
+POEM_NUMBER: 129
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. [This poem has been lost]
+
+---
+
+POEM_NUMBER: 130
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. [This poem has been lost]
+
+---
+
+POEM_NUMBER: 131
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. நன்றே பாண கொண்கனது நட்பே,
+2. தில்லை வேலி இவ்வூர்க்
+3. கல்லென் கௌவை எழாஅக் காலே.
+
+---
+
+POEM_NUMBER: 132
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அம்ம வாழி பாண! புன்னை
+2. அரும்பு மலிகானல் இவ்வூர்
+3. அலர் ஆகின்று, அவர் அருளுமாறே.
+
+---
+
+POEM_NUMBER: 133
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. யானெவன் செய்கோ பாண, ஆனாது
+2. மெல்லம்புலம்பன் பிரிந்தெனப்
+3. புல்லென்றன என் புரி வளைத் தோளே?
+
+---
+
+POEM_NUMBER: 134
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. காண்மதி பாண, இருங்கழிப்
+2. பாய்பரி நெடுந்தேர்க் கொண்கனோடு
+3. தான் வந்தன்று, என் மாமைக் கவினே.
+
+---
+
+POEM_NUMBER: 135
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. பைதலம் அல்லேம் பாண, பணைத்தோள்
+2. ஐது அமைந்து அகன்ற அல்குல்
+3. நெய்தல் அம் கண்ணியை நேர்தல் நாம் பெறினே.
+
+---
+
+POEM_NUMBER: 136
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. நாணிலை மன்ற பாண, நீயே
+2. கோண் ஏர் இலங்குவளை நெகிழ்த்த
+3. கானலம் துறைவற்குச் சொல் உகுப்போயே.
+
+---
+
+POEM_NUMBER: 137
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. நின் ஒன்று வினவுவல் பாண, நும் ஊர்த்
+2. திண் தேர்க் கொண்கனை நயந்தோர்
+3. பண்டைத் தம் நலம் பெறுபவோ மற்றே?
+
+---
+
+POEM_NUMBER: 138
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. பண்பிலை மன்ற பாண, இவ்வூர்
+2. அன்பில கடிய கழறி
+3. மென்புலக் கொண்கனைத் தாராதோயே.
+
+---
+
+POEM_NUMBER: 139
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அம்ம வாழி கொண்க! எம் வயின்
+2. மாண் நலம் மருட்டும் நின்னினும்,
+3. பாணன் நல்லோர் நலம் சிதைக்கும்மே.
+
+---
+
+POEM_NUMBER: 140
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. காண்மதி பாண, நீ உரைத்தற்கு உரியை
+2. துறை கெழு கொண்கன் பிரிந்தென
+3. இறை கேழ் எல் வளை நீங்கிய நிலையே.
+
+---
+
+POEM_NUMBER: 141
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. எக்கர் ஞாழல் செருந்தியொடு கமழத்
+2. துவலைத் தண்துளி வீசிப்
+3. பயலை செய்தன, பனிபடு துறையே.
+
+---
+
+POEM_NUMBER: 142
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. எக்கர் ஞாழல் இறங்கு இணர்ப்படு சினைப்
+2. புள் இறை கூரும் துறைவனை
+3. உள்ளேன் தோழி, படீஇயர் என் கண்ணே.
+
+---
+
+POEM_NUMBER: 143
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. எக்கர் ஞாழல் புள் இமிழ் அகன் துறை
+2. இனிய செய்த நின்று பின்
+3. முனிவு செய்த, இவள் தட மென் தோளே.
+
+---
+
+POEM_NUMBER: 144
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. எக்கர் ஞாழல் இணர்படு பொதும்பர்த்
+2. தனிக்குருகு உறங்கும் துறைவற்கு,
+3. இனிப் பசந்தன்று, என் மாமைக் கவினே.
+
+---
+
+POEM_NUMBER: 145
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. எக்கர் ஞாழல் சிறியிலைப் பெருஞ்சினை
+2. ஓதம் வாங்கும் துறைவன்,
+3. மாயோள் பசலை நீக்கினன் இனியே.
+
+---
+
+POEM_NUMBER: 146
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. எக்கர் ஞாழல் அரும்பு முதிர் அவிழ் இணர்
+2. நறிய கமழும் துறைவற்கு,
+3. இனிய மன்ற, என் மாமைக் கவினே.
+
+---
+
+POEM_NUMBER: 147
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. எக்கர் ஞாழல் மலர் இன் மகளிர்
+2. ஒண் தழை அயரும் துறைவன்,
+3. தண் தழை விலையென நல்கினன், நாடே.
+
+---
+
+POEM_NUMBER: 148
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. எக்கர் ஞாழல் இகந்துபடு பெருஞ்சினை
+2. வீ இனிது கமழும் துறைவனை,
+3. நீ இனிது முயங்குமதி, காதலோயே.
+
+---
+
+POEM_NUMBER: 149
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. எக்கர் ஞாழல் பூவின் அன்ன
+2. சுணங்கு வளர் இள முலை மடந்தைக்கு,
+3. அணங்கு வளர்த்து, அகறல் வல்லாதீமோ.
+
+---
+
+POEM_NUMBER: 150
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. எக்கர் ஞாழல் நறு மலர்ப் பெருஞ்சினைப்
+2. புணரி திளைக்கும் துறைவன்,
+3. புணர்வின் இன்னான், அரும் புணர்வினனே.
+
+---
+
+POEM_NUMBER: 151
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. வெள்ளாங்குருகின் பிள்ளை செத்தெனக்
+2. காணிய சென்ற மட நடை நாரை
+3. மிதிப்ப, நக்க கண் போல் நெய்தல்
+4. கள் கமழ்ந்து ஆனாத் துறைவற்கு,
+5. நெக்க நெஞ்சம் நேர்கல்லேனே.
+
+---
+
+POEM_NUMBER: 152
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. வெள்ளாங்குருகின் பிள்ளை செத்தெனக்
+2. காணிய சென்ற மட நடை நாரை
+3. கையறுபு இரற்றும் கானலம் புலம்பந்
+4. துறைவன் வரையும் என்ப,
+5. அறவன் போலும் அருளுமார் அதுவே.
+
+---
+
+POEM_NUMBER: 153
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. வெள்ளாங்குருகின் பிள்ளை செத்தெனக்
+2. காணிய சென்ற மட நடை நாரை
+3. உளர ஒழிந்த தூவி குலவு மணல்
+4. போர்வில் பெறூஉம் துறைவன் கேண்மை,
+5. நன்னெடுங்கூந்தல் நாடுமோ மற்றே?
+
+---
+
+POEM_NUMBER: 154
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. வெள்ளாங்குருகின் பிள்ளை செத்தெனக்
+2. காணிய சென்ற மடநடை நாரை
+3. கானல் சேக்கும் துறைவனோடு
+4. யானெவன் செய்கோ? பொய்க்கும் இவ்வூரே.
+
+---
+
+POEM_NUMBER: 155
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. வெள்ளாங்குருகின் பிள்ளை செத்தெனக்
+2. காணிய சென்ற மட நடை நாரை
+3. பதைப்பத் ததைந்த நெய்தல் கழிய
+4. ஓதமொடு பெயரும் துறைவற்குப்,
+5. பைஞ்சாய்ப் பாவை ஈன்றனென் யானே.
+
+---
+
+POEM_NUMBER: 156
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. வெள்ளாங்குருகின் பிள்ளை செத்தெனக்
+2. காணிய சென்ற மட நடை நாரை
+3. பதைப்ப ஒழிந்த செம்மறுத் தூவி
+4. தெண் கழிப் பரக்குந் துறைவன்,
+5. எனக்கோ காதலன், அனைக்கோ வேறே.
+
+---
+
+POEM_NUMBER: 157
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. வெள்ளாங்குருகின் பிள்ளை செத்தெனக்
+2. காணிய சென்ற மட நடை நாரை
+3. காலையிருந்து மாலைச் சேக்கும்,
+4. தெண் கடல் சேர்ப்பனொடு வாரான்,
+5. தான் வந்தனன், எம் காதலோனே.
+
+---
+
+POEM_NUMBER: 158
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. வெள்ளாங்குருகின் பிள்ளை செத்தெனக்
+2. காணிய சென்ற மட நடை நாரை
+3. கானலம் பெருந்துறைத் துணையொடு கொட்கும்
+4. தண்ணந்துறைவன் கண்டிகும்,
+5. அம் மா மேனி எம் தோழியது துயரே.
+
+---
+
+POEM_NUMBER: 159
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. வெள்ளாங்குருகின் பிள்ளை செத்தெனக்
+2. காணிய சென்ற மட நடை நாரை
+3. பசி தின அல்கும் பனி நீர்ச் சேர்ப்ப
+4. நின் ஒன்று இரக்குவென் அல்லேன்,
+5. தந்தனை சென்மோ கொண்ட இவள் நலனே.
+
+---
+
+POEM_NUMBER: 160
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. வெள்ளாங்குருகின் பிள்ளை செத்தெனக்
+2. காணிய சென்ற மட நடை நாரை
+3. நொந்ததன் தலையும் நோய் மிகும் துறைவ!
+4. பண்டையின் மிகப் பெரிது இனைஇ
+5. முயங்குமதி பெரும, மயங்கினள் பெரிதே.
+
+---
+
+POEM_NUMBER: 161
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. பெருங்கடற் கரையது சிறுவெண்காக்கை
+2. கருங்கோட்டுப் புன்னைத் தங்கும் துறைவற்குப்,
+3. பயந்து நுதல் அழியச் சாஅய்
+4. நயந்த நெஞ்சம், நோய்ப்பாலஃதே.
+
+---
+
+POEM_NUMBER: 162
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. பெருங்கடற் கரையது சிறுவெண்காக்கை
+2. நீத்து நீர் இருங்கழி இரை தேர்ந்து உண்டு,
+3. பூக் கமழ் பொதும்பர்ச் சேக்கும்
+4. துறைவன் சொல்லோ, பிற ஆயினவே.
+
+---
+
+POEM_NUMBER: 163
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. பெருங்கடற் கரையது சிறுவெண்காக்கை
+2. இருங்கழித் துவலை ஒலியிற் துஞ்சும்
+3. துறைவன் துறந்தெனத், துறந்து என்
+4. இறை ஏர் முன் கை நீக்கிய வளையே.
+
+---
+
+POEM_NUMBER: 164
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. பெருங்கடற் கரையது சிறுவெண்காக்கை
+2. இருங்கழி மருங்கின் அயிரை ஆரும்
+3. தண்ணந்துறைவன் தகுதி,
+4. நம்மோடு அமையாது அலர் பயந்தன்றே.
+
+---
+
+POEM_NUMBER: 165
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. பெருங்கடற் கரையது சிறுவெண்காக்கை
+2. அறுகழிச் சிறு மீன் ஆர மாந்தும்
+3. துறைவன் சொல்லிய சொல், என்
+4. இறை ஏர் எல் வளை கொண்டு நின்றதுவே.
+
+---
+
+POEM_NUMBER: 166
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. பெருங்கடற் கரையது சிறுவெண்காக்கை,
+2. வரி வெண் தாலி வலை செத்து வெரூஉம்
+3. மெல்லம்புலம்பன் தேறி,
+4. நல்லவாயின, நல்லோள் கண்ணே.
+
+---
+
+POEM_NUMBER: 167
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. பெருங்கடற் கரையது சிறுவெண்காக்கை
+2. இருங்கழி இனக் கெடிறு ஆரும் துறைவன்
+3. நல்குவன் போலக் கூறி
+4. நல்கான் ஆயினும், தொல் கேளன்னே.
+
+---
+
+POEM_NUMBER: 168
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. பெருங்கடற் கரையது சிறுவெண்காக்கை
+2. துறைபடி அம்பி அக மனை ஈனும்
+3. தண்ணந்துறைவன் நல்கின்,
+4. ஒண்ணுதல் அரிவை பால் ஆரும்மே.
+
+---
+
+POEM_NUMBER: 169
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. பெருங்கடற் கரையது சிறுவெண்காக்கை
+2. பொன் இணர் ஞாழல் முனையின் பொதி அவிழ்
+3. புன்னையம் பூஞ்சினைச் சேக்கும் துறைவன்
+4. நெஞ்சத்து உண்மை அறிந்தும்,
+5. என் செயப் பசக்கும் தோழி என் கண்ணே.
+
+---
+
+POEM_NUMBER: 170
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. பெருங்கடற் கரையது சிறுவெண்காக்கை
+2. இருங்கழி நெய்தல் சிதைக்கும் துறைவன்
+3. நல்லன் என்றியாயின்,
+4. பல்லிதழ் உண்கண் பசத்தல் மற்று எவனோ?
+
+---
+
+POEM_NUMBER: 171
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. திரை இமிழ் இன்னிசை அளைஇ, அயலது
+2. முழவு இமிழ் இன்னிசை மறுகு தொறு இசைக்கும்
+3. தொண்டி அன்ன, பணைத்தோள்
+4. ஒண்தொடி அரிவை, என் நெஞ்சு கொண்டோளே.
+
+---
+
+POEM_NUMBER: 172
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. ஒண்தொடி அரிவை கொண்டனள் நெஞ்சே,
+2. வண்டு இமிர் பனித் துறைத் தொண்டி ஆங்கண்
+3. உரவுக் கடல் ஒலித் திரையென,
+4. இரவினானும், துயில் அறியேனே.
+
+---
+
+POEM_NUMBER: 173
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. இரவினானும் இன்துயில் அறியாது,
+2. அரவுறு துயரம் எய்துப, தொண்டித்
+3. தண் நறு நெய்தல் நாறும்
+4. பின் இருங்கூந்தல் அணங்குற்றோரே.
+
+---
+
+POEM_NUMBER: 174
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அணங்குடைப் பனித் துறைத் தொண்டி அன்ன,
+2. மணங்கமழ் பொழில் குறி நல்கினள், நுணங்கு இழை
+3. பொங்கு அரி பரந்த உண்கண்,
+4. அம் கலிழ் மேனி, அசைஇய எமக்கே.
+
+---
+
+POEM_NUMBER: 175
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. எமக்கு நயந்து அருளினை ஆயின் பணைத்தோள்
+2. நன்னுதல் அரிவையொடு, மென்மெல இயலி
+3. வந்திசின், வாழியோ மடந்தை,
+4. தொண்டி அன்ன நின் பண்பு பல கொண்டே.
+
+---
+
+POEM_NUMBER: 176
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. பண்பும் பாயலும் கொண்டனள், தொண்டித்
+2. தண் கமழ் புது மலர் நாறும், ஒண்தொடி,
+3. ஐது அமைந்து அகன்ற அல்குல்,
+4. கொய் தளிர் மேனி, கூறுமதி தவறே.
+
+---
+
+POEM_NUMBER: 177
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. தவறு இலர் ஆயினும் பனிப்ப மன்ற,
+2. இவறு திரை திளைக்கும் இடு மணல் நெடுங்கோட்டு
+3. முண்டக நறு மலர் கமழும்
+4. தொண்டி அன்னோள், தோள் உற்றோரே.
+
+---
+
+POEM_NUMBER: 178
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. தோளும் கூந்தலும் பல பாராட்டி
+2. வாழ்தல் ஒல்லுமோ மற்றே, செங்கோல்
+3. குட்டுவன் தொண்டி அன்ன
+4. என் கண்டும் நயந்து நீ நல்காக் காலே?
+
+---
+
+POEM_NUMBER: 179
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. நல்குமதி, வாழியோ, நளி நீர்ச் சேர்ப்ப!
+2. அலவன் தாக்கத் துறை இறாப் பிறழும்
+3. இன் ஒலித் தொண்டி அற்றே,
+4. நின்னலது இல்லா, இவள் சிறு நுதலே.
+
+---
+
+POEM_NUMBER: 180
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. சிறு நனி வரைந்தனை கொண்மோ, பெருநீர்
+2. வலைவர் தந்த கொழு மீன் வல்சிப்
+3. பறை தபு முது குருகு இருக்கும்
+4. துறை கெழு தொண்டி அன்ன இவள் நலனே.
+
+---
+
+POEM_NUMBER: 181
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. நெய்தல் உண்கண் நேர் இறைப் பணைத்தோள்
+2. பொய்தல் ஆடிய பொய்யா மகளிர்
+3. குப்பை வெண்மணல் குரவை நிறூஉம்
+4. துறை கெழு கொண்கன் நல்கின்,
+5. உறைவு இனிது அம்ம, இவ் அழுங்கல் ஊரே.
+
+---
+
+POEM_NUMBER: 182
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. நெய்தல் நறு மலர் செருந்தியொடு விரைஇக்
+2. கை புனை நறுந்தார் கமழும் மார்பன்
+3. அருந்திறல் கடவுள் அல்லன்,
+4. பெருந்துறைக் கண்டு இவள் அணங்கியோனே.
+
+---
+
+POEM_NUMBER: 183
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கணங்கொள் அருவி கான்கெழு நாடன்,
+2. குறும்பொறை நாடன், வயல் ஊரன்,
+3. தண் கடல் சேர்ப்பன் பிரிந்தெனப் பண்டையின்
+4. கடும் பகல் வருதி கையறு மாலை,
+5. கொடுங்கழி நெய்தலும் கூம்பக்
+6. காலை வரினும் களைஞரோ இலரே.
+
+---
+
+POEM_NUMBER: 184
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. நெய்தல் இருங்கழி நெய்தல் நீக்கி
+2. மீன் உண் குருகு இனம் கானல் அல்கும்
+3. கடல் அணிந்தன்று அவர் ஊரே,
+4. கடலினும் பெரிது எமக்கு அவருடை நட்பே.
+
+---
+
+POEM_NUMBER: 185
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. அலங்கு இதழ் நெய்தல் கொற்கை முன்துறை
+2. இலங்கு முத்து உறைக்கும் எயிறு கெழு துவர் வாய்
+3. அரம் போழ் அவ்வளைக் குறுமகள்,
+4. நரம்பு ஆர்த்தன்ன, தீம் கிளவியளே.
+
+---
+
+POEM_NUMBER: 186
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. நாரை நல் இனம் கடுப்ப மகளிர்
+2. நீர் வார் கூந்தல் உளரும் துறைவ!
+3. பொங்கு கழி நெய்தல் உறைப்ப இத்துறைப்
+4. பல் கால் வரூஉம் தேரெனச்
+5. செல்லாதீமோ, என்றனள் யாயே.
+
+---
+
+POEM_NUMBER: 187
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. நொதுமலாளர் கொள்ளார் இவையே,
+2. எம்மொடு வந்து கடலாடு மகளிரும்
+3. நெய்தலம் பகைத்தழைப் பாவை புனையார்,
+4. உடலகம் கொள்வோர் இன்மையின்
+5. தொடலைக்கு உற்ற சில பூவினரே.
+
+---
+
+POEM_NUMBER: 188
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. இருங்கழிச் சேயிறா இனப்புள் ஆரும்
+2. கொற்கைக் கோமான் கொற்கையம் பெருந்துறை
+3. வைகறை மலரும் நெய்தல் போலத்
+4. தகை பெரிது உடை காதலி கண்ணே.
+
+---
+
+POEM_NUMBER: 189
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. புன்னை நுண் தாது உறைத்தரு நெய்தல்
+2. பொன்படு மணியின் பொற்பத் தோன்றும்
+3. மெல்லம்புலம்பன் வந்தென,
+4. நல்லனவாயின தோழி என் கண்ணே.
+
+---
+
+POEM_NUMBER: 190
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. தண் நறு நெய்தல் தளை அவிழ் வான் பூ
+2. வெண்ணெல் அரிநர் மாற்றினர் அறுக்கும்
+3. மெல்லம்புலம்பன் மன்ற, எம்
+4. பல்லிதழ் உண்கண் பனி செய்தோனே.
+
+---
+
+POEM_NUMBER: 191
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கடல் கோடு செறிந்த வளை வார் முன் கைக்,
+2. கழிப்பூத் தொடர்ந்த இரும் பல் கூந்தல்,
+3. கானல் ஞாழல் கவின் பெறு தழையள்,
+4. வரையர மகளிரின் அரியள், என்
+5. நிறை அரு நெஞ்சம் கொண்டு ஒளித்தோளே.
+
+---
+
+POEM_NUMBER: 192
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கோடு புலம் கொட்பக், கடல் எழுந்து முழங்கப்,
+2. பாடு இமிழ் பனித்துறை ஓடுகலம் உகைக்கும்
+3. துறைவன் பிரிந்தென நெகிழ்ந்தன,
+4. வீங்கின மாதோ தோழி, என் வளையே.
+
+---
+
+POEM_NUMBER: 193
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. வலம்புரி உழுத வார் மணல் அடைகரை,
+2. இலங்குகதிர் முத்தம் இருள் கெட இமைக்கும்,
+3. துறை கெழு கொண்க! நீ தந்த
+4. அறைபுனல் வால் வளை நல்லவோ தாமே?
+
+---
+
+POEM_NUMBER: 194
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கடல் கோடு அறுத்த அரம் போழ் அவ்வளை
+2. ஒண்தொடி மடவரல் கண்டிகும் கொண்க!
+3. நன்னுதல் இன்று மால் செய்தெனக்,
+4. கொன் ஒன்று கடுத்தனள், அன்னையது நிலையே.
+
+---
+
+POEM_NUMBER: 195
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. வளைபடு முத்தம் பரதவர் பகருங்,
+2. கடல் கெழு கொண்கன் காதல் மட மகள்,
+3. கெடல் அருந்துயரம் நல்கிப்,
+4. படலின் பாயல் வெளவியோளே.
+
+---
+
+POEM_NUMBER: 196
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கோடு ஈர் எல் வளைக், கொழும் பல் கூந்தல்,
+2. ஆய் தொடி மடவரல் வேண்டுதி ஆயின்,
+3. தெண் கழி சேயிறாப் படூஉம்
+4. தண் கடல் சேர்ப்ப, வரைந்தனை கொண்மோ.
+
+---
+
+POEM_NUMBER: 197
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. இலங்கு வளை தெளிர்ப்ப அலவன் ஆட்டி,
+2. முகம் புதை கதுப்பினள் இறைஞ்சி நின்றோளே,
+3. புலம்பு கொள் மாலை மறைய,
+4. நலம் கேழ் ஆகம் நல்குவள் எனக்கே.
+
+---
+
+POEM_NUMBER: 198
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. வளையணி முன் கை, வால் எயிற்று அமர் நகை,
+2. இளையர் ஆடும் தளை அவிழ் கானல்,
+3. குறுந்துறை வினவி நின்ற,
+4. நெடுந்தோள் அண்ணல் கண்டிகும் யாமே.
+
+---
+
+POEM_NUMBER: 199
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. கானலம் பெருந்துறைக் கலி திரை திளைக்கும்
+2. வான் உயர் நெடு மணல் ஏறி, ஆனாது
+3. காண்கம், வம்மோ தோழி,
+4. செறி வளை நெகிழ்த்தோன் எறி கடல் நாடே.
+
+---
+
+POEM_NUMBER: 200
+BOOK: Aingurunuru
+AUTHOR_TAMIL: அம்மூவனார்
+AUTHOR_ENGLISH: Ammoovanār
+CATEGORY: Agam
+TINAI: Neithal
+
+LINES:
+1. இலங்கு வீங்கு எல் வளை ஆய் நுதல் கவினப்
+2. பொலந்தேர்க் கொண்கன் வந்தனன், இனியே,
+3. விலங்கு அரி நெடுங்கண் ஞெகிழ்மதி,
+4. நலம் கவர் பசலையை நகுகம் நாமே.
+
+---
+
+POEM_NUMBER: 201
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அன்னாய் வாழி! வேண்டு அன்னை! என் ஐ
+2. தானும் மலைந்தான், எமக்கும் தழை ஆயின
+3. பொன் வீ மணி அரும்பினவே,
+4. என்ன மரம் கொல் அவர் சாரல் அவ்வே?
+
+---
+
+POEM_NUMBER: 202
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அன்னாய் வாழி! வேண்டு அன்னை! நம் ஊர்ப்
+2. பார்ப்பனக் குறுமகப் போலத் தாமும்
+3. குடுமித் தலைய மன்ற,
+4. நெடு மலை நாடன் ஊர்ந்த மாவே.
+
+---
+
+POEM_NUMBER: 203
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அன்னாய் வாழி! வேண்டு அன்னை! நம் படப்பை
+2. தேன் மயங்கு பாலினும் இனிய, அவர் நாட்டு
+3. உவலை கூவல் கீழ
+4. மான் உண்டு எஞ்சிய கலிழி நீரே.
+
+---
+
+POEM_NUMBER: 204
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அன்னாய் வாழி! வேண்டு அன்னை! அஃது எவன் கொல்,
+2. வரையர மகளிரின் நிரையுடன் குழீஇப்
+3. பெயர்வுழிப் பெயர்வுழித் தவிராது நோக்கி,
+4. 'நல்லள் நல்லள்' என்ப,
+5. தீயேன் தில்ல மலை கிழவோற்கே?
+
+---
+
+POEM_NUMBER: 205
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அன்னாய் வாழி! வேண்டு அன்னை! என் தோழி
+2. நனி நாண் உடையள், நின்னும் அஞ்சும்,
+3. ஒலி வெள் அருவி ஓங்கு மலை நாடன்
+4. மலர்ந்த மார்பின் பாயல்
+5. துஞ்சிய வெய்யள், நோகோ யானே.
+
+---
+
+POEM_NUMBER: 206
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அன்னாய் வாழி! வேண்டு அன்னை! உவக்காண்,
+2. மாரிக் குன்றத்துக் காப்பான் அன்னன்,
+3. தூவலின் நனைந்த தொடலை ஒள்வாள்
+4. பாசி சூழ்ந்த பெருங்கழல்
+5. தண் பனி வைகிய வரிக் கச்சினனே.
+
+---
+
+POEM_NUMBER: 207
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அன்னாய் வாழி! வேண்டு அன்னை! நன்றும்
+2. உணங்கல கொல்லோ நின் தினையே, உவக்காண்!
+3. நிணம் பொதி வழுக்கின் தோன்றும்
+4. மழை தலை வைத்த அவர் மணி நெடுங்குன்றே.
+
+---
+
+POEM_NUMBER: 208
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அன்னாய் வாழி! வேண்டு அன்னை! கானவர்
+2. கிழங்கு அகழ் நெடுங்குழி மல்க வேங்கைப்
+3. பொன் மலி புது வீத் தாஅம் அவர் நாட்டு
+4. மணி நிற மால் வரை மறைதொறு, இவள்
+5. அணி மலர் நெடுங்கண் ஆர்ந்தன பனியே.
+
+---
+
+POEM_NUMBER: 209
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அன்னாய் வாழி! வேண்டு அன்னை! நீ மற்று
+2. யான் அவர் மறத்தல் வேண்டுதி ஆயின்,
+3. கொண்டல் அவரைப் பூவின் அன்ன
+4. வெண்தலை மா மழை சூடித்
+5. தோன்றல் ஆனாது, அவர் மணி நெடுங்குன்றே.
+
+---
+
+POEM_NUMBER: 210
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அன்னாய் வாழி! வேண்டு அன்னை! நம் படப்பைப்
+2. புலவுச் சேர் துறுகல் ஏறி, அவர் நாட்டுப்
+3. பூக் கெழு குன்றம் நோக்கி நின்று,
+4. மணி புரை வயங்கிழை நிலைபெறத்
+5. தணிதற்கும் உரித்து, அவள் உற்ற நோயே.
+
+---
+
+POEM_NUMBER: 211
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. நெய்யொடு மயக்கிய உழுந்து நூற்றன்ன,
+2. வயலையஞ் சிலம்பின் தலையது,
+3. செயலையம் பகைத்தழை வாடும் அன்னாய்.
+
+---
+
+POEM_NUMBER: 212
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. சாந்த மரத்த பூழில் எழு புகை,
+2. கூட்டு விரை கமழும் நாடன்
+3. அறவற்கு, எவனோ நாம் அகல்வு அன்னாய்?
+
+---
+
+POEM_NUMBER: 213
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. நறு வடி மாஅத்து மூக்கு இறுபு உதிர்ந்த
+2. ஈர்ந்தண் பெரு வடுப், பாலையிற் குறவர்
+3. உறை வீழ் ஆலியின் தொகுக்கும் சாரல்
+4. மீமிசை நன்னாட்டவர் வரின்,
+5. யான் உயிர் வாழ்தல் கூடும் அன்னாய்.
+
+---
+
+POEM_NUMBER: 214
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. சாரல் பலவின் கொழுந்துணர் நறும் பழம்
+2. இருங்கல் விடர் அளை வீழ்ந்தென, வெற்பில்
+3. பெருந்தேன் இறாஅல் கீறும் நாடன்,
+4. பேரமர் மழைக் கண் கலிழத், தன்
+5. சீருடை நன்னாட்டுச் செல்லும் அன்னாய்.
+
+---
+
+POEM_NUMBER: 215
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. கட்டளை அன்ன மணி நிறத் தும்பி,
+2. இட்டிய குயின்ற துறைவயின் செலீஇயர்,
+3. தட்டைத் தண்ணுமைப் பின்னர் இயவர்
+4. தீங்குழல் ஆம்பலின் இனிய இமிரும்,
+5. புதல் மலர் மாலையும் பிரிவோர்,
+6. இதனினும் கொடிய செய்குவர் அன்னாய்.
+
+---
+
+POEM_NUMBER: 216
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குறுங்கை இரும்புலிக் கோள் வல் ஏற்றை,
+2. நெடும் புதல் கானத்து, மடப் பிடி ஈன்ற
+3. நடுங்கு நடைக் குழவி கொளீஇய, பலவின்
+4. பழம் தூங்கு கொழு நிழல் ஒளிக்கும் நாடற்குக்,
+5. கொய்திடு தளிரின் வாடி, நின்
+6. மெய் பிறிது ஆதல் எவன் கொல் அன்னாய்?
+
+---
+
+POEM_NUMBER: 217
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. பெருவரை வேங்கைப் பொன் மருள் நறு வீ
+2. மான் இனப் பெருங்கிளை மேயல் ஆரும்,
+3. கானக நாடன் வரவும், இவண்
+4. மேனி பசப்பது எவன் கொல் அன்னாய்?
+
+---
+
+POEM_NUMBER: 218
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. நுண் ஏர் புருவத்த கண்ணும் ஆடும்,
+2. மயிர் வார் முன் கை வளையும் செறூஉம்,
+3. களிறு கோள் பிழைத்த கதஞ்சிறந்து எழு புலி
+4. எழுதரு மழையின் குழுமும்
+5. பெருங்கல் நாடன், வருங்கொல் அன்னாய்.
+
+---
+
+POEM_NUMBER: 219
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. கருங்கால் வேங்கை மாத்தகட்டு ஒள் வீ,
+2. இருங்கல் வியல் அறை வரிப்பத் தாஅம்
+3. நன் மலை நாடன் பிரிந்தென,
+4. ஒண்ணுதல் பசப்பது, எவன் கொல் அன்னாய்?
+
+---
+
+POEM_NUMBER: 220
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அலங்கு மழை பொழிந்த அகன் கண் அருவி,
+2. ஆடு கழை அடுக்கத்து இழிதரு நாடன்
+3. பெருவரை அன்ன, திரு விறல் வியன் மார்பு
+4. முயங்காது கழிந்த நாள், இவள்
+5. மயங்கிதழ் மழைக் கண் கலிழும் அன்னாய்.
+
+---
+
+POEM_NUMBER: 221
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அம்ம வாழி தோழி! காதலர்,
+2. பாவை அன்ன என் ஆய் கவின் தொலைய,
+3. நன் மா மேனி பசப்பச்,
+4. 'செல்வல்' என்ப, தம் மலைகெழு நாடே.
+
+---
+
+POEM_NUMBER: 222
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அம்ம வாழி தோழி! நம் ஊர்
+2. நளிந்து வந்து உறையும் நறும் தண் மார்பன்,
+3. இன்னினி வாராமாறு கொல்,
+4. சில் நிரை ஓதி என் நுதல் பசப்பதுவே?
+
+---
+
+POEM_NUMBER: 223
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அம்ம வாழி தோழி! நம் மலை
+2. வரை ஆம் இழியக், கோடல் நீடக்,
+3. காதலர்ப் பிரிந்தோர் கையற நலியும்,
+4. தண் பனி வடந்தை அச்சிரம்
+5. முந்து வந்தனர், நம் காதலோரே.
+
+---
+
+POEM_NUMBER: 224
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அம்ம வாழி தோழி! நம் மலை
+2. மணி நிறங் கொண்ட மா மலை வெற்பில்,
+3. துணி நீர் அருவி நம்மோடு ஆடல்
+4. எளிய மன்னால் அவர்க்கு, இனி
+5. அரிய ஆகுதல், மருண்டனென் யானே.
+
+---
+
+POEM_NUMBER: 225
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அம்ம வாழி தோழி! பைஞ்சுனைப்
+2. பாசடை நிவந்த பனி மலர்க் குவளை
+3. உள் அகம் கமழும் கூந்தல், மெல்லியல்,
+4. ஏர் திகழ் ஒண்ணுதல் பசத்தல்,
+5. ஓரார் கொல், நம் காதலோரே?
+
+---
+
+POEM_NUMBER: 226
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அம்ம வாழி தோழி! நம் மலை
+2. நறும் தண் சிலம்பின் நாறு குலைக் காந்தள்
+3. கொங்கு உண் வண்டின் பெயர்ந்து, புற மாறி, நின்
+4. வன்புடை விறல் கவின் கொண்ட
+5. அன்பிலாளன், வந்தனன் இனியே.
+
+---
+
+POEM_NUMBER: 227
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அம்ம வாழி தோழி! நாளும்
+2. நன்னுதல் பசப்பவும், நறுந்தோள் ஞெகிழவும்,
+3. ஆற்றலம் யாம் என மதிப்பக் கூறி,
+4. நப்பிரிந்து உறைந்தோர் மன்ற, நீ
+5. விட்டனையோ, அவர் உற்ற சூளே?
+
+---
+
+POEM_NUMBER: 228
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அம்ம வாழி தோழி! நம்மூர்
+2. நிரந்து இலங்கு அருவிய நெடுமலை நாடன்,
+3. இரந்து குறையுறாஅன் பெயரின்,
+4. என்னாவது கொல், நம் இன் உயிர் நிலையே?
+
+---
+
+POEM_NUMBER: 229
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அம்ம வாழி தோழி! நாம் அழப்
+2. பன்னாள் பிரிந்த அறன் இலாளன்,
+3. வந்தனனோ மற்று இரவில்?
+4. பொன் போல் விறல் கவின் கொள்ளும், நின் நுதலே.
+
+---
+
+POEM_NUMBER: 230
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அம்ம வாழி தோழி! நம்மொடு
+2. சிறு தினைக் காவலன் ஆகிப், பெரிது நின்
+3. மென்தோள் ஞெகிழவும், திரு நுதல் பசப்பவும்,
+4. பொன் போல் விறல் கவின் தொலைத்த
+5. குன்ற நாடற்கு, அயர்வர் நன் மணனே.
+
+---
+
+POEM_NUMBER: 231
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. யாங்கு வல்லுநையோ ஓங்கல் வெற்ப,
+2. இரும் பல் கூந்தல் திருந்திழை அரிவை,
+3. திதலை மாமை தேயப்,
+4. பசலை பாயப், பிரிவு தெய்யோ?
+
+---
+
+POEM_NUMBER: 232
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. போது ஆர் கூந்தல் இயல் அணி அழுங்க,
+2. ஏதிலாளனை நீ பிரிந்ததற்கே,
+3. அழல் அவிர் மணிப் பூண் நனையப்,
+4. பெயல் ஆனா என் கண்ணே தெய்யோ.
+
+---
+
+POEM_NUMBER: 233
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. வருவை அல்லை, வாடை நனி கொடிதே,
+2. அரு வரை மருங்கின் ஆய் மணி வரன்றி
+3. ஒல்லென இழிதரும் அருவி, நின்
+4. கல் உடை நாட்டுச் செல்லல் தெய்யோ.
+
+---
+
+POEM_NUMBER: 234
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. மின் அவிர் வயங்கிழை ஞெகிழச் சாஅய்,
+2. நன்னுதல் பசத்தல் ஆவது, துன்னிக்
+3. கனவில் காணும் இவளே,
+4. நனவில் காணாள், நின் மார்பே தெய்யோ.
+
+---
+
+POEM_NUMBER: 235
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. கையுற வீழ்ந்த மை இல் வானமொடு
+2. அரிது காதலர்ப் பொழுதே, அதனால்
+3. தெரியிழை தெளிர்ப்ப முயங்கிப்
+4. 'பிரியலம்' என்கமோ, எழுகமோ தெய்யோ?
+
+---
+
+POEM_NUMBER: 236
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அன்னையும் அறிந்தனள், அலரும் ஆயின்று,
+2. நன் மனை நெடுநகர் புலம்பு கொள, உறுதரும்
+3. இன்னா வாடையும் மலையும்,
+4. நும் ஊர்ச் செல்கம், எழுகமோ தெய்யோ?
+
+---
+
+POEM_NUMBER: 237
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. காமம் கடவ, உள்ளம் இனைப்ப,
+2. யாம் வந்து காண்பது ஓர் பருவம் ஆயின்,
+3. ஓங்கித் தோன்றும் உயர் வரைக்கு,
+4. யாங்கு எனப்படுவது நும்மூர் தெய்யோ?
+
+---
+
+POEM_NUMBER: 238
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. வார்க்கோட்டு வயத் தகர் வாராது மாறினும்,
+2. குரூஉ மயிர்ப் புருவை ஆசையின் அல்கும்,
+3. மாஅல் அருவித் தண் பெருஞ்சிலம்ப,
+4. நீ இவண் வரூஉம் காலை,
+5. மேவரும் மாதோ இவள் நலனே தெய்யோ.
+
+---
+
+POEM_NUMBER: 239
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. சுரும்பு உணக் களித்த புகர் முக வேழம்
+2. இரும்பிணர்த் துறுகல் பிடி செத்துத் தழூஉம், நின்
+3. குன்று கெழு நன்னாட்டுச் சென்ற பின்றை,
+4. நேர் இறைப் பணைத்தோள் ஞெகிழ,
+5. வாராய் ஆயின், வாழேம் தெய்யோ.
+
+---
+
+POEM_NUMBER: 240
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அறியேம் அல்லேம், அறிந்தனம் மாதோ,
+2. பொறி வரிச் சிறைய வண்டினம் மொய்ப்பச்
+3. சாந்தம் நாறும் நறியோள்
+4. கூந்தல் நாறும், நின் மார்பே தெய்யோ.
+
+---
+
+POEM_NUMBER: 241
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. நம் உறு துயரம் நோக்கி அன்னை
+2. வேலன் தந்தாள் ஆயின், அவ் வேலன்
+3. வெறி கமழ் நாடன் கேண்மை
+4. அறியுமோ தில்ல, செறி எயிற்றோயே?
+
+---
+
+POEM_NUMBER: 242
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அறியாமையின் வெறியென மயங்கி
+2. அன்னையும் அருந்துயர் உழந்தனள், அதனால்
+3. எய்யாது விடுதலோ கொடிதே, நிரை இதழ்
+4. ஆய் மலர் உண்கண் பசப்பச்
+5. சேய் மலை நாடன் செய்த நோயே.
+
+---
+
+POEM_NUMBER: 243
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. கறி வளர் சிலம்பின் கடவுள் பேணி,
+2. அறியா வேலன் வெறி எனக் கூறும்,
+3. அது மனம் கொள்குவை அனையிவள்
+4. புது மலர் மழைக்கண் புலம்பிய நோய்க்கே.
+
+---
+
+POEM_NUMBER: 244
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அம்ம வாழி தோழி பன் மலர்
+2. நறும் தண் சோலை நாடு கெழு நெடுந்தகை
+3. குன்றம் பாடான் ஆயின்
+4. என் பயஞ்செய்யுமோ வேலற்கு அவ் வெறியே.
+
+---
+
+POEM_NUMBER: 245
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. பொய்யா மரபின் ஊர் முது வேலன்,
+2. கழங்கு மெய்ப்படுத்துக் கன்னம் தூக்கி
+3. முருகு என மொழியும் ஆயின்,
+4. கெழுதகை கொல் இவள் அணங்கியோற்கே.
+
+---
+
+POEM_NUMBER: 246
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. வெறி செறித்தனனே வேலன், கறிய
+2. கல் முகை வயப் புலி கழங்கு மெய்ப்படூஉ
+3. புன்புலம் வித்திய புனவர் புணர்த்த
+4. மெய்ம்மையன்ன பெண்பாற் புணர்ந்து
+5. மன்றில் பையுள் தீரும்,
+6. குன்ற நாடன் உறீஇய நோயே.
+
+---
+
+POEM_NUMBER: 247
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அன்னை தந்தது ஆகுவது அறிவென்
+2. பொன் நகர் வரைப்பின் கன்னம் தூக்கி
+3. 'முருகு' என மொழியும் ஆயின்,
+4. அரு வரை நாடன் பெயர் கொலோ அதுவே?
+
+---
+
+POEM_NUMBER: 248
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. பெய்ம் மணல் முற்றம் கவின் பெற இயற்றி
+2. மலைவான் கொண்ட சினைஇய வேலன்
+3. கழங்கினால் அறிகுவது என்றால்
+4. நன்றால் அம்ம, நின்ற இவள் நலனே.
+
+---
+
+POEM_NUMBER: 249
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. பெய்ம் மணல் வரைப்பின் கழங்குபடுத்து அன்னைக்கு
+2. முருகு என மொழியும் வேலன் மற்று அவன்
+3. வாழிய, இலங்கும் அருவிச்
+4. சூர் மலை நாடனை அறியாதோனே.
+
+---
+
+POEM_NUMBER: 250
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. பொய்படுபு அறியாக் கழங்கே! மெய்யே
+2. மணி வரைக் கட்சி மட மயில் ஆலும் நம்
+3. மலர்ந்த வள்ளியம் கானம் கிழவோன்,
+4. ஆண்டகை விறல் வேள் அல்லன், இவள்
+5. பூண் தாங்கு இள முலை அணங்கியோனே.
+
+---
+
+POEM_NUMBER: 251
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குன்றக் குறவன் ஆர்ப்பின், எழிலி
+2. நுண் பல் அழிதுளி பொழியும் நாட!
+3. நெடு வரைப் படப்பை நும் ஊர்க்
+4. கடுவரல் அருவி காணினும் அழுமே.
+
+---
+
+POEM_NUMBER: 252
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குன்றக் குறவன் புல் வேய்க் குரம்பை
+2. மன்றாடு இள மழை மறைக்கும் நாடன்
+3. புரையோன், வாழி தோழி, விரை பெயல்
+4. அரும் பனி அளைஇய கூதிர்ப்
+5. பெருந்தண் வாடையின், முந்து வந்தனனே.
+
+---
+
+POEM_NUMBER: 253
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குன்றக் குறவன் சாந்த நறும் புகை
+2. தேங்கமழ் சிலம்பின் வரையகம் கமழும்
+3. கானக நாடன் வரையின்,
+4. மன்றலும் உடையள் கொல் தோழி, யாயே?
+
+---
+
+POEM_NUMBER: 254
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குன்றக் குறவன் ஆரம் அறுத்தென,
+2. நறும் புகை சூழ்ந்து காந்தள் நாறும்,
+3. வண்டு இமிர், சுடர்நுதல் குறுமகள்,
+4. கொண்டனர் செல்வர், தம் குன்று கெழு நாட்டே.
+
+---
+
+POEM_NUMBER: 255
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குன்றக் குறவன் காதல் மட மகள்,
+2. வரையர மகளிர்ப் புரையும் சாயலள்,
+3. ஐயள், அரும்பிய முலையள்,
+4. செய்ய வாயினள், மார்பினள் சுணங்கே.
+
+---
+
+POEM_NUMBER: 256
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குன்றக் குறவன் காதல் மடமகள்,
+2. வண்டுபடு கூந்தல் தண் தழைக் கொடிச்சி,
+3. வளையள், முளை வாள் எயிற்றள்,
+4. இளையள் ஆயினும், ஆர் அணங்கினளே.
+
+---
+
+POEM_NUMBER: 257
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குன்றக் குறவன் கடவுள் பேணி
+2. இரந்தனன் பெற்ற எல் வளைக் குறுமகள்,
+3. ஆய் அரி நெடுங்கண் கலிழச்
+4. சேயதால் தெய்ய, நீ பிரியும் நாடே.
+
+---
+
+POEM_NUMBER: 258
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குன்றக் குறவன் காதல் மடமகள்,
+2. அணி மயில் அன்ன அசை நடைக் கொடிச்சியைப்,
+3. பெருவரை நாடன் வரையும் ஆயின்,
+4. கொடுத்தனெம் ஆயினோ நன்றே,
+5. இன்னும் ஆனாது, நன்னுதல் துயரே.
+
+---
+
+POEM_NUMBER: 259
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குன்றக் குறவன் காதல் மடமகள்,
+2. மன்ற வேங்கை மலர் சில கொண்டு,
+3. மலை உறை கடவுள் குலமுதல் வழுத்தித்
+4. தேம்பலிச் செய்த ஈர் நறுங்கையள்,
+5. மலர்ந்த காந்தள் நாறிக்
+6. கலிழ்ந்த கண்ணள், எம் அணங்கியோளே.
+
+---
+
+POEM_NUMBER: 260
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குன்றக் குறவன் காதல் மடமகள்,
+2. மென்றோள் கொடிச்சியைப் பெறற்கு அரிது தில்ல,
+3. பைம்புறப் படுகிளி ஓப்பலள்,
+4. புன்புல மயக்கத்து விளைந்தன தினையே.
+
+---
+
+POEM_NUMBER: 261
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. மென்தினை மேய்ந்த தறுகண் பன்றி,
+2. வன் கல் அடுக்கத்துத் துஞ்சும் நாடன்,
+3. எந்தை அறிதல் அஞ்சிக் கொல்,
+4. அதுவே மன்ற வாராமையே?
+
+---
+
+POEM_NUMBER: 262
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. சிறு தினை மேய்ந்த தறுகண் பன்றி,
+2. துறுகல் அடுக்கத்துத் துணையொடு வதியும்,
+3. இலங்கு மலை நாடன் வரூஉம்
+4. மருந்தும் அறியும் கொல் தோழி, அவன் விருப்பே?
+
+---
+
+POEM_NUMBER: 263
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. நன் பொன் அன்ன புனிறு தீர் ஏனல்,
+2. கட்டளை அன்ன கேழல் மாந்தும்,
+3. குன்று கெழு நாடன், தானும்
+4. வந்தனன், வந்தன்று தோழி, என் நலனே.
+
+---
+
+POEM_NUMBER: 264
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. இளம் பிறையன்ன கோட்ட கேழல்,
+2. களங்கனியன்ன பெண்பால் புணரும்,
+3. அயம் திகழ் சிலம்ப! கண்டிகும்,
+4. பயந்தன மாதோ, நீ நயந்தோள் கண்ணே.
+
+---
+
+POEM_NUMBER: 265
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. புலி கொல் பெண்பால் பூ வரிக் குருளை,
+2. வளை வெண்மருப்பின் கேழல் புரக்கும்,
+3. குன்று கெழு நாடன் மறந்தனன்,
+4. பொன் போல் புதல்வனோடு என் நீத்தோனே.
+
+---
+
+POEM_NUMBER: 266
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. சிறு கண் பன்றிப் பெருஞ்சின ஒருத்தலொடு,
+2. குறுங்கை இரும்புலி பொரூஉம் நாட!
+3. நனி நாண் உடைய மன்ற,
+4. பனிப் பயந்தன, நீ நயந்தோள் கண்ணே.
+
+---
+
+POEM_NUMBER: 267
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. சிறு கண் பன்றிப் பெருஞ்சின ஒருத்தல்,
+2. துறுகல் அடுக்கத்து வில்லோர் மாற்றி,
+3. ஐவனம் கவரும் குன்ற நாடன்,
+4. வண்டுபடு கூந்தலைப் பேணிப்,
+5. பண்பு இல சொல்லும், தேறுதல் செத்தே.
+
+---
+
+POEM_NUMBER: 268
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. தாஅய் இழந்த தழு வரிக் குருளையொடு,
+2. வள மலைச் சிறு தினை உணீஇய, கானவர்
+3. வரை ஓங்கு உயர் சிமைக் கேழல் உறங்கும்,
+4. நன்மலை நாடன், பிரிதல்
+5. என் பயக்கும்மோ, நம் விட்டுத் துறந்தே?
+
+---
+
+POEM_NUMBER: 269
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. கேழல் உழுதெனக் கிளர்ந்த எருவை,
+2. விளைந்த செறுவின் தோன்றும் நாடன்,
+3. வாராது அவண் உறை நீடின், நேர் வளை
+4. இணையீர் ஓதி, நீ அழத்,
+5. துணை நனி இழக்குவென் மடமையானே.
+
+---
+
+POEM_NUMBER: 270
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. கிழங்கு அகழ் கேழல் உழுத சிலம்பில்,
+2. தலைவிளை கானவர் கொய்தனர் பெயரும்,
+3. புல்லென் குன்றத்துப் புலம்பு கொள் நெடுவரை
+4. காணினும் கலிழு நோய் செத்துத்
+5. தாம் வந்தனர், நம் காதலோரே.
+
+---
+
+POEM_NUMBER: 271
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அவரை அருந்த மந்தி பகர்வர்
+2. பக்கின் தோன்றும் நாடன் வேண்டின்,
+3. பல் பசுப் பெண்டிரும் பெறுகுவன்,
+4. தொல் கேள் ஆகலின், நல்குமால் இவட்கே.
+
+---
+
+POEM_NUMBER: 272
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. கரு விரல் மந்திக் கல்லா வன்பறழ்,
+2. அரு வரைத் தீந்தேன் எடுப்பி, அயலது
+3. உருகெழு நெடுஞ்சினைப் பாயும் நாடன்,
+4. இரவின் வருதல் அறியான்,
+5. 'வரும் வரும்' என்பள், தோழி யாயே.
+
+---
+
+POEM_NUMBER: 273
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அத்தச் செயலைத் துப்பு உறழ் ஒண் தளிர்,
+2. புன்தலை மந்தி வன் பறழ் ஆரும்
+3. நன்மலை நாட! நீ செலின்,
+4. நின் நயத்து உறைவி, என்னினும் கலிழ்மே.
+
+---
+
+POEM_NUMBER: 274
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. மந்திக் கணவன் கல்லாக் கடுவன்,
+2. ஒண் கேழ் வயப் புலி குழுமலின் விரைந்து உடன்
+3. குன்று உயர் அடுக்கம் கொள்ளும் நாடன்,
+4. சென்றனன், வாழி தோழி, என்
+5. மென் தோள் கவினும் பாயலும் கொண்டே.
+
+---
+
+POEM_NUMBER: 275
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குரங்கின் தலைவன் குரூஉ மயிர்க் கடுவன்,
+2. சூரலஞ் சிறு கோல் கொண்டு வியல் அறை
+3. மாரி மொக்குள் புடைக்கும் நாட!
+4. யாம் நின் நயந்தனம் எனினும், எம்
+5. ஆய் நலம் வாடுமோ, அருளுதி எனினே?
+
+---
+
+POEM_NUMBER: 276
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. மந்திக் காதலன் முறி மேய் கடுவன்,
+2. தண் கமழ் நறைக் கொடி கொண்டு வியல் அறைப்
+3. பொங்கல் இள மழை புடைக்கும் நாட!
+4. நயவாய் ஆயினும், வரைந்தனை சென்மோ,
+5. கன்முகை வேங்கை மலரும்
+6. நன்மலை நாடன் பெண்டு எனப்படுத்தே.
+
+---
+
+POEM_NUMBER: 277
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குறவர் முன்றில் மா தீண்டு துறுகல்,
+2. கல்லா மந்தி கடுவனோடு உகளும்,
+3. குன்ற நாட! நின் மொழிவல், என்றும்
+4. பயப்ப நீத்தல், என் இவள்
+5. கயத்து வளர் குவளையின் அமர்த்த கண்ணே?
+
+---
+
+POEM_NUMBER: 278
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. சிலம்பின் வெதிரத்துக் கண்விடு கழைக்கோல்
+2. குரங்கின் வன் பறழ் பாய்ந்தென, இலஞ்சி
+3. மீன் எறி தூண்டிலின் நிவக்கும் நாடன்,
+4. உற்றோர் மறவா நோய் தந்து,
+5. கண்டோர் தண்டா நலம் கொண்டனனே.
+
+---
+
+POEM_NUMBER: 279
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. கல் இவர் இற்றி புல்லுவன ஏறிக்,
+2. குளவி மேய்ந்த மந்தி, துணையொடு
+3. வரை மிசை உகளும் நாட! நீ வரின்,
+4. கல் அகத்தது எம் ஊரே,
+5. அம்பற்சேரி அலர் ஆங்கட்டே.
+
+---
+
+POEM_NUMBER: 280
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. கரு விரல் மந்திக் கல்லா வன் பார்ப்பு,
+2. இரு வெதிர் ஈர்ங்கழை ஏறிச் சிறு கோல்
+3. மதி புடைப்பது போல தோன்றும் நாட!
+4. வரைந்தனை நீ எனக் கேட்டு, யான்
+5. உரைத்தனென் அல்லனோ, அஃது என் யாய்க்கே.
+
+---
+
+POEM_NUMBER: 281
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. வெள்ள வரம்பின் ஊழி போகியும்,
+2. கிள்ளை வாழிய பலவே, ஒள்ளிழை
+3. இரும்பல் கூந்தல் கொடிச்சி
+4. பெருந்தோள் காவல் காட்டியவ்வே.
+
+---
+
+POEM_NUMBER: 282
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. சாரல் புறத்த பெருங்குரல் சிறு தினைப்
+2. பேரமர் மழைக்கண் கொடிச்சி கடியவும்
+3. சோலைச் சிறு கிளி உன்னும் நாட!
+4. ஆர் இருள் பெருகின வாரல்,
+5. கோட்டுமா வழங்கும் காட்டக நெறியே.
+
+---
+
+POEM_NUMBER: 283
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. வன்கண் கானவன் மென் சொல் மடமகள்,
+2. புன்புல மயக்கத்து உழுத ஏனல்
+3. பைம்புறச் சிறு கிளி கடியும் நாட!
+4. பெரிய கூறி நீப்பினும்,
+5. பொய் வலைப்படூஉம் பெண்டு, தவப் பலவே.
+
+---
+
+POEM_NUMBER: 284
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அளிய தாமே செவ்வாய்ப் பைங்கிளி,
+2. குன்றக் குறவர் கொய் தினைப் பைங்கால்
+3. இருவை நீள் புனம் கண்டும்,
+4. பிரிதல் தேற்றாப் பேரன்பினவே.
+
+---
+
+POEM_NUMBER: 285
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. பின் இருங்கூந்தல் நன்னுதல் குறமகள்
+2. மெல் தினை நுவணை உண்டு தட்டையின்
+3. ஐவனச் சிறு கிளி கடியும் நாட!
+4. வீங்கு வளை நெகிழப் பிரிதல்
+5. யாங்கு வல்லுநையோ, ஈங்கு இவள் துறந்தே?
+
+---
+
+POEM_NUMBER: 286
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. சிறுதினை கொய்த இருவை வெண்கால்
+2. காய்த்த அவரைப் படுகிளி கடியும்
+3. யாணர் ஆகிய நன்மலை நாடன்,
+4. புகர் இன்று நயந்தனன் போலும்,
+5. கவரும் தோழி, என் மாமைக் கவினே.
+
+---
+
+POEM_NUMBER: 287
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. நெடுவரை மிசையது குறுங்கால் வருடை,
+2. தினை பாய் கிள்ளை வெரூஉம் நாட!
+3. வல்லை மன்ற பொய்த்தல்,
+4. வல்லாய் மன்ற, நீ அல்லது செயலே.
+
+---
+
+POEM_NUMBER: 288
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. நன்றே செய்த உதவி நன்று தெரிந்து,
+2. யாம் எவன் செய்குவம் நெஞ்சே, காமர்
+3. மெல்லியல் கொடிச்சி காப்பப்,
+4. பல் குரல் ஏனல் பாத்தரும் கிளியே?
+
+---
+
+POEM_NUMBER: 289
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. கொடிச்சி இன் குரல் கிளி செத்து அடுக்கத்துப்
+2. பைங்குரல் ஏனல் படர்தரும் கிளியெனக்,
+3. காவலும் கடியுநர் போல்வர்,
+4. மால் வரை நாட! வரைந்தனை கொண்மோ.
+
+---
+
+POEM_NUMBER: 290
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. அறம் புரி செங்கோல் மன்னனின், தாம் நனி
+2. சிறந்தன போலும் கிள்ளை, பிறங்கிய
+3. பூக்கமழ் கூந்தல் கொடிச்சி
+4. நோக்கவும் படும், அவள் ஓப்பவும் படுமே.
+
+---
+
+POEM_NUMBER: 291
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. மயில்கள் ஆலக் குடிஞை இரட்டும்,
+2. துறுகல் அடுக்கத்து அதுவே, பணைத்தோள்,
+3. ஆய் தழை நுடங்கும் அல்குல்
+4. காதலி, உறையும் நனி நல்லூரே.
+
+---
+
+POEM_NUMBER: 292
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. மயில்கள் ஆலப், பெருந்தேன் இமிரத்,
+2. தண் மழை தழீஇய மா மலை நாட!
+3. நின்னினும் சிறந்தனள், எமக்கே நீ நயந்து
+4. நன் மனை அருங்கடி அயர,
+5. எம் நலம் சிறப்ப, யாம் இனிப் பெற்றோளே.
+
+---
+
+POEM_NUMBER: 293
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. சிலம்பு கமழ் காந்தள் நறுங்குலை அன்ன
+2. நலம் பெறு கையின், என் கண் புதைத்தோயே,
+3. பாயல் இந்துணை ஆகிய பணைத்தோள்
+4. தோகை மாட்சிய மடந்தை,
+5. நீ அலது உளரோ என் நெஞ்சு அமர்ந்தோரே?
+
+---
+
+POEM_NUMBER: 294
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. எரி மருள் வேங்கை இருந்த தோகை,
+2. இழை அணி மடந்தையின் தோன்றும் நாட!
+3. இனிது செய்தனையால் நுந்தை வாழியர்,
+4. நன் மனை வதுவை அயர இவள்
+5. பின்னிருங்கூந்தல் மலர் அணிந்தோயே.
+
+---
+
+POEM_NUMBER: 295
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. வருவது கொல்லோ, தானே வாராது
+2. அவண் உறை மேவலின் அமைவது கொல்லோ,
+3. புனவர் கொள்ளியின் புகல்வரும் மஞ்ஞை
+4. இருவி இருந்த குருவி வருந்துறப்,
+5. பந்து ஆடு மகளிரின் படர்தரும்
+6. குன்று கெழு நாடனொடு, சென்ற என் நெஞ்சே?
+
+---
+
+POEM_NUMBER: 296
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. கொடிச்சி காக்கும் பெருங்குரல் ஏனல்,
+2. அடுக்கல் மஞ்ஞை கவரும் நாட!
+3. நடுநாள் கங்குலும் வருதி,
+4. கடுமா தாக்கின், அறியேன் யானே.
+
+---
+
+POEM_NUMBER: 297
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. விரிந்த வேங்கைப் பெருஞ்சினைத் தோகை,
+2. பூக்கொய் மகளிரின் தோன்றும் நாட!
+3. பிரியினும் பிரிவது அன்றே,
+4. நின்னொடு மேய மடந்தை நட்பே.
+
+---
+
+POEM_NUMBER: 298
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. மழை வரவு அறியா மஞ்ஞை ஆலும்,
+2. அடுக்கல் நல்லூர் அசை நடைக் கொடிச்சி,
+3. தான் எம் அருளாள் ஆயினும்,
+4. யாம் தன் உள்ளுபு மறந்தறியேமே.
+
+---
+
+POEM_NUMBER: 299
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. குன்ற நாடன் குன்றத்துக் கவாஅன்,
+2. பைஞ்சுனைப் பூத்த பகுவாய்க் குவளையும்,
+3. அம் சில் ஓதி அசை நடைக் கொடிச்சி
+4. கண் போல் மலர்தலும் அரிது, இவள்
+5. தன் போல் சாயல் மஞ்ஞைக்கும் அரிதே.
+
+---
+
+POEM_NUMBER: 300
+BOOK: Aingurunuru
+AUTHOR_TAMIL: கபிலர்
+AUTHOR_ENGLISH: Kapilar
+CATEGORY: Agam
+TINAI: Kurinji
+
+LINES:
+1. கொடிச்சி கூந்தல் போலத் தோகை
+2. அம் சிறை விரிக்கும் பெருங்கல் வெற்பன்
+3. வந்தனன், எதிர்ந்தனர் கொடையே,
+4. அம் தீம் கிளவி, பொலிக நின் சிறப்பே.
+
+---
+
+POEM_NUMBER: 301
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. மால் வெள்ளோத்திரத்து மை இல் வால் இணர்
+2. அருஞ்சுரம் செல்வோர் சென்னிக் கூட்டும்,
+3. அவ் வரை இறக்குவையாயின்,
+4. மை வரை நாட! வருந்துவள் பெரிதே.
+
+---
+
+POEM_NUMBER: 302
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அரும் பொருள் செய் வினை தப்பற்கும் உரித்தே,
+2. பெருந்தோள் அரிவை தகைத்தற்கும் உரியள்,
+3. செல்லாய் ஆயினோ நன்றே,
+4. மெல்லம்புலம்ப, இவள் அழப் பிரிந்தே.
+
+---
+
+POEM_NUMBER: 303
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. புதுக் கலத்து அன்ன கனிய ஆலம்,
+2. போகில் தனைத் தடுக்கும் வேனில் அருஞ்சுரம்,
+3. தண்ணிய இனியவாக,
+4. எம்மொடுஞ் சென்மோ விடலை நீயே.
+
+---
+
+POEM_NUMBER: 304
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. கல்லாக் கோவலர் கோலின் தோண்டிய
+2. ஆன் நீர்ப் பத்தல் யானை வெளவும்,
+3. கல் அதர்க் கவலை செல்லின், மெல்லியல்
+4. புயל நெடுங்கூந்தல் புலம்பும்,
+5. வயமான் தோன்றல், வல்லாதீமே.
+
+---
+
+POEM_NUMBER: 305
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. களிறு பிடி தழீஇப் பிற புலம் படராது,
+2. பசி தின வருந்தும் பைது அறு குன்றத்துச்,
+3. சுடர் தொடிக் குறுமகள் இனைய,
+4. எனைப் பயன் செய்யுமோ விடலை, நின் செலவே?
+
+---
+
+POEM_NUMBER: 306
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. வெல்போர்க் குரிசில்! நீ வியன் சுரம் இறப்பின்,
+2. பல் காழ் அல்குல் அவ்வரி வாடக்,
+3. குழலினும் இனைகுவள் பெரிதே,
+4. விழவு ஒலி கூந்தல் மாஅயோளே.
+
+---
+
+POEM_NUMBER: 307
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. ஞெலி கழை முழங்கு அழல் வயமா வெரூஉம்,
+2. குன்று உடை அருஞ்சுரம் செல அயர்ந்தனையே,
+3. நன்று இல் கொண்க, நின் பொருளே,
+4. பாவை அன்ன நின் துணை பிரிந்து வருமே.
+
+---
+
+POEM_NUMBER: 308
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. பல் இருங்கூந்தல் மெல்லியலோள் வயின்
+2. பிரியாய் ஆயினும் நன்றே, விரி இணர்க்
+3. கால் எறுழ் ஒள் வீ தாஅய,
+4. முருகு அமர் மா மலை பிரிந்தெனப், பிரிமே.
+
+---
+
+POEM_NUMBER: 309
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. வேனில் திங்கள் வெஞ்சுரம் இறந்து
+2. செலவு அயர்ந்தனையால் நீயே நன்று,
+3. நின் նயந்து உறைவி கடுஞ்சூல் சிறுவன்
+4. முறுவல் காண்டலின் இனிதோ,
+5. இறுவரை நாட, நீ இறந்து செய் பொருளே?
+
+---
+
+POEM_NUMBER: 310
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. பொலம் பசும் பாண்டில் காசு நிரை அல்குல்,
+2. இலங்கு வளை மெல் தோள் இழை நிலை நெகிழப்
+3. பிரிதல் வல்லுவை ஆயின்,
+4. அரிதே விடலை, இவள் ஆய் நுதல் கவினே.
+
+---
+
+POEM_NUMBER: 311
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. வேங்கை கொய்யுநர் பஞ்சுரம் விளிப்பினும்,
+2. ஆர் இடைச் செல்வோர் ஆறு நனி வெரூஉம்,
+3. காடு இறந்தனரே காதலர்,
+4. 'நீடுவர் கொல்?', என நினையும் என் நெஞ்சே.
+
+---
+
+POEM_NUMBER: 312
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அறம் சாலியரோ! அறம் சாலியரோ!
+2. வறன் உண்டாயினும், அறம் சாலியரோ!
+3. வாள் வனப்பு உற்ற அருவிக்,
+4. கோள் வல் என் ஐயை, மறைத்த குன்றே.
+
+---
+
+POEM_NUMBER: 313
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. தெறுவது அம்ம நும் மகள் விருப்பே,
+2. உறு துயர் அவலமொடு உயிர் செலச் சாஅய்ப்,
+3. பாழ்படு நெஞ்சம் படர் அடக் கலங்க,
+4. நாடு இடை விலங்கிய வைப்பின்
+5. காடு இறந்தனள், நம் காதலோளே.
+
+---
+
+POEM_NUMBER: 314
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அவிர்தொடி கொட்பக், கழுது புகவு அயரக்,
+2. கருங்கண் காக்கையொடு கழுகு விசும்பு அகவச்,
+3. சிறு கண் யானை ஆள் வீழ்த்துத் திரிதரும்,
+4. நீளிடை அருஞ்சுரம் என்ப, நம்
+5. தோளிடை முனிநர் சென்ற ஆறே.
+
+---
+
+POEM_NUMBER: 315
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. பாயல் கொண்ட பனி மலர் நெடுங்கண்
+2. பூசல் கேளார் சேயர் என்ப,
+3. இழை நெகிழ் செல்லல் உறீஇக்
+4. கழை முதிர் சோலைக் காடு இறந்தோரே.
+
+---
+
+POEM_NUMBER: 316
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. பொன் செய் பாண்டில் பொலங்கலம் நந்தத்,
+2. தேர் அகல் அல்குல் அவ்வரி வாட,
+3. இறந்தோர் மன்ற தாமே, பிறங்கு மலைப்
+4. புல் அரை ஓமை நீடிய
+5. புலி வழங்கு அதர கானத்தானே.
+
+---
+
+POEM_NUMBER: 317
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. சூழ்கம் வம்மோ தோழி, பாழ்பட்டுப்
+2. பைது அற வெந்த பாலை வெங்காட்டு
+3. அருஞ்சுரம் இறந்தோர் தேஎத்துச்
+4. சென்ற நெஞ்சம் நீடிய பொருளே.
+
+---
+
+POEM_NUMBER: 318
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. ஆய் நலம் பசப்ப, அரும் படர் நலிய,
+2. வேய் மருள் பணைத்தோள் வில் இழை நெகிழ,
+3. நசை நனி கொன்றோர் மன்ற, இசை நிமிர்ந்து
+4. ஓடு எரி நடந்த வைப்பின்
+5. கோடு உயர் பிறங்கல் மலை இறந்தோரே.
+
+---
+
+POEM_NUMBER: 319
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. கண் பொர விளங்கிய கதிர் தெறு வைப்பின்,
+2. மண் புரை பெருகிய மரம் முளி கானம்
+3. இறந்தனரோ நம் காதலர்?
+4. மறந்தனரோ தில் மறவா நம்மே?
+
+---
+
+POEM_NUMBER: 320
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. முள் அரை இலவத்து ஒள் இணர் வான் பூ,
+2. முழங்கு அழல் அசை வளி எடுப்ப வானத்து
+3. உருமுப்படு கனலின் இரு நிலத்து உறைக்கும்,
+4. கவலை அருஞ்சுரம் போயினர்,
+5. தவல் இல் அரு நோய் தலைத்தந்தோரே.
+
+---
+
+POEM_NUMBER: 321
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. உலறுதலைப் பருந்தின் உளிவாய்ப் பேடை,
+2. அலறுதலை ஓமை அம் கவட்டு ஏறிப்
+3. புலம்பு கொள விளிக்கும் நிலம் காய் கானத்து,
+4. மொழி பெயர் பன் மலை இறப்பினும்,
+5. ஒழிதல் செல்லாது, ஒண்தொடி குணனே.
+
+---
+
+POEM_NUMBER: 322
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. நெடுங்கழை முளிய வேனில் நீடிக்
+2. கடுங்கதிர் ஞாயிறு கல்பகத் தெறுதலின்,
+3. வெய்ய வாயின முன்னே, இனியே
+4. ஒண்ணுதல் அரிவையை உள்ளுதொறும்.
+5. தண்ணியவாயின, சுரத்திடை ஆறே.
+
+---
+
+POEM_NUMBER: 323
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. வள் எயிற்றுச் செந்நாய், வயவுறு பிணவிற்குக்
+2. கள்ளியங் கடத்திடைக் கேழல் பார்க்கும்,
+3. வெஞ்சுரக் கவலை நீந்தி
+4. வந்த நெஞ்சம், நீ நயந்தோள் பண்பே.
+
+---
+
+POEM_NUMBER: 324
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. எரி கவர்ந்து உண்ட என்றூழ் நீள் இடைச்
+2. சிறிது கண்படுப்பினும், காண்குவென் மன்ற,
+3. நள்ளென் கங்குல் நளி மனை நெடு நகர்,
+4. வேங்கை வென்ற சுணங்கின்
+5. தேம் பாய் கூந்தல் மாஅயோளே.
+
+---
+
+POEM_NUMBER: 325
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. வேனில் அரையத்து இலையொலி வெரீஇப்,
+2. போகில் புகா உண்ணாது பிறிது புலம் படரும்,
+3. வெம்பலை அருஞ்சுரம் நலியாது,
+4. எம் வெங்காதலி பண்பு துணைப் பெற்றே.
+
+---
+
+POEM_NUMBER: 326
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அழல் அவிர் நனந்தலை நிழலிடம் பெறாது,
+2. மட மான் அம் பிணை மறியொடு திரங்க,
+3. நீர் மருங்கு அறுத்த நிரம்பா இயவின்
+4. இன்னா மன்ற சுரமே,
+5. இனிய மன்ற, யான் ஒழிந்தோள் பண்பே.
+
+---
+
+POEM_NUMBER: 327
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. பொறி வரித் தடக்கை வேதல் அஞ்சிச்,
+2. சிறு கண் யானை நிலந்தொடல் செல்லா
+3. வெயின் முளி சோலைய வேய் உயர் சுரனே
+4. அன்ன ஆரிடையானும்,
+5. தண்மை செய்த இத் தகையோள் பண்பே.
+
+---
+
+POEM_NUMBER: 328
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. நுண் மழை தளித்தென நறு மலர் தாஅய்த்
+2. தண்ணியவாயினும் வெய்ய மன்ற,
+3. மடவரல் இன்துணை ஒழியக்
+4. கட முதிர் சோலைய காடு இறந்தேற்கே.
+
+---
+
+POEM_NUMBER: 329
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. ஆள் வழக்கு அற்ற பாழ்படு நனந்தலை
+2. வெம்முனை அருஞ்சுரம் நீந்தி, நம்மொடு
+3. மறுதருவது கொல் தானே, செறி தொடி
+4. கழிந்து உகு நிலையவாக
+5. ஒழிந்தோள் கொண்ட, என் உரங்கெழு நெஞ்சே?
+
+---
+
+POEM_NUMBER: 330
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. வெந்துகள் ஆகிய வெயில் கடம் நீந்தி
+2. வந்தனம் ஆயினும், ஒழிக இனிச் செலவே,
+3. அழுத கண்ணள் ஆய் நலம் சிதையக்
+4. கதிர் தெறு வெஞ்சுரம் நினைக்கும்,
+5. அவிர் கோல் ஆய்தொடி உள்ளத்துப் படரே.
+
+---
+
+POEM_NUMBER: 331
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அம்ம வாழி தோழி! அவிழ் இணர்க்
+2. கருங்கால் மராஅத்து வைகு சினை வான் பூ,
+3. அருஞ்சுரம் செல்லுநர் ஒழிந்தோர் உள்ள,
+4. இனிய கமழும் வெற்பின்
+5. இன்னாது என்ப, அவர் சென்ற ஆறே.
+
+---
+
+POEM_NUMBER: 332
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அம்ம வாழி தோழி! என்னதூஉம்
+2. அறன் இல மன்ற தாமே, விறல் மிசைக்
+3. குன்று கெழு கானத்த பண்பில் மாக் கணம்,
+4. 'கொடிதே காதலிப் பிரிதல்
+5. செல்லல் ஐய' என்னாது அவ்வே.
+
+---
+
+POEM_NUMBER: 333
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அம்ம வாழி தோழி! யாவதும்
+2. வல்லா கொல்லோ தாமே, அவண
+3. கல் உடை நன் நாட்டுப் புள்ளினப் பெருந்தோடு,
+4. 'யாஅம் துணை புணர்ந்து உறைதும்,
+5. யாங்குப் பிரிந்து உறைதி' என்னாது அவ்வே?
+
+---
+
+POEM_NUMBER: 334
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அம்ம வாழி தோழி! சிறியிலை
+2. நெல்லி நீடிய கல் காய் கடத்திடைப்
+3. பேதை நெஞ்சம் பின் செலச் சென்றோர்,
+4. கல்லினும் வலியர் மன்ற,
+5. பல்லிதழ் உண்கண் அழப் பிரிந்தோரே.
+
+---
+
+POEM_NUMBER: 335
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அம்ம வாழி தோழி! நம் வயின்
+2. நெய்த்தோர் அன்ன செவிய எருவை,
+3. கல் புடை மருங்கில் கடு முடை பார்க்கும்,
+4. காடு நனி கடிய என்ப,
+5. நீடி இவண் வருநர் சென்ற ஆறே.
+
+---
+
+POEM_NUMBER: 336
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அம்ம வாழி தோழி! நம் வயின்
+2. பிரியலர் போலப் புணர்ந்தோர் மன்ற,
+3. நின்றது இல் பொருள் பிணி முற்றிய
+4. என்றூழ் நீடிய சுரன் இறந்தோரே.
+
+---
+
+POEM_NUMBER: 337
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அம்ம வாழி தோழி! நம் வயின்
+2. மெய்யுற விரும்பிய கை கவர் முயக்கினும்
+3. இனிய மன்ற, தாமே
+4. பனி இருங்குன்றம் சென்றோர்க்குப் பொருளே.
+
+---
+
+POEM_NUMBER: 338
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அம்ம வாழி தோழி! சாரல்
+2. இலை இல மலர்ந்த ஓங்கு நிலை இலவம்,
+3. மலையுறு தீயின் சுர முதல் தோன்றும்,
+4. பிரிவருங் காலையும், பிரிதல்
+5. அரிது வல்லுநர் நம் காதலோரே.
+
+---
+
+POEM_NUMBER: 339
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அம்ம வாழி தோழி! சிறியிலைக்
+2. குறுஞ்சினை வேம்பின் நறும் பழம் உணீஇய
+3. வாவல் உகக்கும் மாலையும்
+4. இன்று கொல், காதலவர் சென்ற நாடே?
+
+---
+
+POEM_NUMBER: 340
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அம்ம வாழி தோழி! காதலர்
+2. உள்ளார் கொல், நாம் மருள் உற்றனம் கொல்,
+3. விட்டுச் சென்றனர் நம்மே,
+4. தட்டைத் தீயின் ஊர் அலர் எழவே?
+
+---
+
+POEM_NUMBER: 341
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அவரோ வாரார், தான் வந்தன்றே,
+2. குயில் பெடை இன் குரல் அகவ,
+3. அயிர்க் கேழ் நுண் அறல் நுடங்கும் பொழுதே.
+
+---
+
+POEM_NUMBER: 342
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அவரோ வாரார், தான் வந்தன்றே,
+2. சுரும்பு களித்து ஆலும் இருஞ்சினைக்
+3. கருங்கால் நுணவம் கமழும் பொழுதே.
+
+---
+
+POEM_NUMBER: 343
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அவரோ வாரார், தான் வந்தன்றே,
+2. திணி நிலைக் கோங்கம் பயந்த
+3. அணி மிகு கொழு முகை உடையும் பொழுதே.
+
+---
+
+POEM_NUMBER: 344
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அவரோ வாரார், தான் வந்தன்றே,
+2. நறும் பூங்குரவம் பயந்த
+3. செய்யாப் பாவை கொய்யும் பொழுதே.
+
+---
+
+POEM_NUMBER: 345
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அவரோ வாரார், தான் வந்தன்றே,
+2. புதுப் பூ அதிரல் தாஅய்க்
+3. கதுப்பு அறல் அணியும் காமர் பொழுதே.
+
+---
+
+POEM_NUMBER: 346
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அவரோ வாரார், தான் வந்தன்றே,
+2. அஞ்சினைப் பாதிரி அலர்ந்தெனச்
+3. செங்கண் இருங்குயில் அறையும் பொழுதே.
+
+---
+
+POEM_NUMBER: 347
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அவரோ வாரார், தான் வந்தன்றே,
+2. எழில் தகை இள முலை பொலியப்
+3. பொரிப்பூம் புன்கின் முறி திமிர் பொழுதே.
+
+---
+
+POEM_NUMBER: 348
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அவரோ வாரார், தான் வந்தன்றே,
+2. வலஞ்சுரி மராஅம் வேய்ந்து நம்
+3. மணங்கமழ் தண் பொழில் மலரும் பொழுதே.
+
+---
+
+POEM_NUMBER: 349
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அவரோ வாரார், தான் வந்தன்றே,
+2. பொரி கால் மாஞ்சினை புதைய
+3. எரி கால் இளந்தளிர் ஈனும் பொழுதே.
+
+---
+
+POEM_NUMBER: 350
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அவரோ வாரார், தான் வந்தன்றே,
+2. வேம்பின் ஒண் பூ உறைப்பத்
+3. தேம்படு கிளவி அவர்த் தெளிக்கும் பொழுதே.
+
+---
+
+POEM_NUMBER: 351
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அத்த பலவின் வெயில் தின் சிறு காய்,
+2. அருஞ்சுரம் செல்வோர் அருந்தினர் கழியும்
+3. காடு பின் ஒழிய வந்தனர், தீர்கினிப்
+4. பல்லிதழ் உண்கண் மடந்தை நின்
+5. நல் எழில் அல்குல் வாடிய நிலையே.
+
+---
+
+POEM_NUMBER: 352
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. விழுத்தொடை மறவர் வில்லிடத் தொலைந்தோர்
+2. எழுத்துடை நடுகல் அன்ன விழுப்பிணர்ப்
+3. பெருங்கை யானை இருஞ்சினம் உறைக்கும்
+4. வெஞ்சுரம் அரிய என்னார்,
+5. வந்தனர் தோழி, நம் காதலோரே.
+
+---
+
+POEM_NUMBER: 353
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. எரிக்கொடி கவைஇய செவ்வரை போலச்
+2. சுடர்ப்பூண் விளங்கும் ஏந்து எழில் அகலம்
+3. நீ இனிது முயங்க வந்தனர்,
+4. மா இருஞ் சோலை மலை இறந்தோரே.
+
+---
+
+POEM_NUMBER: 354
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. ஈர்ம் பிணவு புணர்ந்த செந்நாய் ஏற்றை,
+2. மறியுடை மான் பிணை கொள்ளாது கழியும்,
+3. அரிய சுரன் வந்தனரே,
+4. தெரியிழை அரிவை நின் பண்பு தர விரைந்தே.
+
+---
+
+POEM_NUMBER: 355
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. திருந்திழை அரிவை! நின் நலம் உள்ளி,
+2. அருஞ் செயல் பொருட் பிணி பெருந்திரு உறுக என
+3. சொல்லாது பெயர்தந்தேனே, பல் பொறிச்
+4. சிறு கண் யானை திரிதரும்
+5. நெறி விலங்கு அதர கானத்தானே.
+
+---
+
+POEM_NUMBER: 356
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. உள்ளுதற்கு இனிய மன்ற, செல்வர்
+2. யானை பிணித்த பொன் புனை கயிற்றின்
+3. ஒள் எரி மேய்ந்த சுரத்திடை
+4. உள்ளம் வாங்கத் தந்த, நின் குணனே.
+
+---
+
+POEM_NUMBER: 357
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. குரவம் மலர, மரவம் பூப்பச்,
+2. சுரன் அணி கொண்ட கானம் காணூஉ,
+3. அழுங்குக செய்பொருள் செலவு என, விரும்பி நின்
+4. நலம் கலிழ் மாமை கவின
+5. வந்தனர் தோழி, நம் காதலோரே.
+
+---
+
+POEM_NUMBER: 358
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. கோடு உயர் பன் மலை இறந்தனர் ஆயினும்,
+2. நீட விடுமோ மற்றே, நீடு நினைந்து,
+3. துடைத்தொறும் துடைத்தொறும் கலங்கி,
+4. உடைத்து எழு வெள்ளம் ஆகிய கண்ணே.
+
+---
+
+POEM_NUMBER: 359
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அரும் பொருள் வேட்கையமாகி, நின் துறந்து,
+2. பெருங்கல் அதரிடைப் பிரிந்த காலைத்,
+3. தவ நனி நெடிய ஆயின, இனியே
+4. அணியிழை உள்ளி யாம் வருதலின்,
+5. அணிய ஆயின, சுரத்திடை ஆறே.
+
+---
+
+POEM_NUMBER: 360
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. எரி கவர்ந்து உண்ட என்றூழ் நீளிடை
+2. அரிய வாயினும், எளிய அன்றே,
+3. அவவு உறு நெஞ்சம் கவவு நனி விரும்பிக்,
+4. கடுமான் திண் தேர் கடைஇ,
+5. நெடுமான் நோக்கி, நின் உள்ளி யாம் வரவே.
+
+---
+
+POEM_NUMBER: 361
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. உயர்கரைக் கான்யாற்று அவிர்மணல் அகன் துறை,
+2. வேனில் பாதிரி விரிமலர் குவைஇத்
+3. தொடலை தைஇய, மடவரல் மகளே!
+4. கண்ணினும் கதவ நின் முலையே,
+5. முலையினும் கதவ நின் தட மென்தோளே.
+
+---
+
+POEM_NUMBER: 362
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. பதுக்கைத்து ஆய ஒதுக்கு அருங்கவலைச்,
+2. சிறு கண் யானை உறுபகை நினையாது,
+3. யாங்கு வந்தனையோ, பூந்தார் மார்ப,
+4. அருள் புரி நெஞ்சம் உய்த்தர,
+5. இருள் பொர நின்ற இரவினானே?
+
+---
+
+POEM_NUMBER: 363
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. சிலை வில் பகழிச் செந்துவர் ஆடை,
+2. கொலை வல் எயினர் தங்கை! நின் முலைய
+3. சுணங்கு என நினைதி நீயே,
+4. அணங்கு என நினையும், என் அணங்குறு நெஞ்சே.
+
+---
+
+POEM_NUMBER: 364
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. முளமா வல்சி எயினர் தங்கை,
+2. இளமா எயிற்றிக்கும் இந்நிலை அறியச்
+3. சொல்லினென் இரக்கும் அளவை,
+4. வெள்வேல் விடலை, விரையாதீமே.
+
+---
+
+POEM_NUMBER: 365
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. கண மா தொலைச்சித் தன் ஐயர் தந்த
+2. நிண ஊன் வல்சிப் படுபுள் ஓப்பும்
+3. நலம் மாண் எயிற்றி போலப் பல மிகு
+4. நன்னலம் நயவர உடையை,
+5. என் நோற்றனையோ மாவின் தளிரே?
+
+---
+
+POEM_NUMBER: 366
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அன்னாய் வாழி! வேண்டன்னை தோழி!
+2. பசந்தனள் பெரிது எனச் சிவந்த கண்ணை
+3. கொன்னே கடவுதியாயின், என்னதூஉம்
+4. அறிய ஆகுமோ மற்றே,
+5. முறி இணர்க் கோங்கம் பயந்தமாறே?
+
+---
+
+POEM_NUMBER: 367
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. பொரி அரைக் கோங்கின் பொன் மருள் பசு வீ,
+2. விரி இணர் வேங்கையொடு வேறுபட மிலைச்சி,
+3. விரவு மலர் அணிந்த, வேனில் கான்யாற்றுத்
+4. தேரொடு குறுக வந்தோன்,
+5. பேரொடு புணர்ந்தன்று அன்னை, இவள் உயிரே.
+
+---
+
+POEM_NUMBER: 368
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. எரிப்பூ இலவத்து ஊழ் கழி பன் மலர்,
+2. பொரிப்பூம் புன்கின் புகர் நிழல் வரிக்கும்,
+3. தண் பத வேனில் இன்ப நுகர்ச்சி
+4. எம்மொடு கொண்மோ பெரும, நின்
+5. அம் மெல் ஓதி அழிவிலள் எனினே.
+
+---
+
+POEM_NUMBER: 369
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. வள மலர் ததைந்த வண்டுபடு நறும் பொழில்,
+2. முளை நிரை முறுவல் ஒருத்தியொடு, நெருநல்
+3. குறி நீ செய்தனை என்ப, அலரே,
+4. குரவ நீள் சினை உறையும்
+5. பருவ மாக்குயில் கௌவையின் பெரிதே.
+
+---
+
+POEM_NUMBER: 370
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. வண் சினைக் கோங்கின் தண் கமழ் படலை
+2. இருஞ்சிறை வண்டின் பெருங்கிளை மொய்ப்ப,
+3. நீ நயந்து உறைப்பட்டோள்
+4. யாவளோ? எம் மறையாதீமே.
+
+---
+
+POEM_NUMBER: 371
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. மள்ளர் கொட்டின் மஞ்ஞை ஆலும்,
+2. உயர் நெடுங்குன்றம் படுமழை தலைஇச்,
+3. சுர நனி இனிய ஆகுக தில்ல,
+4. அறநெறி இதுவெனத் தெளிந்த என்
+5. பிறை நுதல் குறுமகள், போகிய சுரனே.
+
+---
+
+POEM_NUMBER: 372
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. என்னும் உள்ளினள் கொல்லோ, தன்னை
+2. நெஞ்சு உணத் தேற்றிய வஞ்சினக் காளையொடு,
+3. அழுங்கல் மூதூர் அலர் எழச்,
+4. செழும் பல் குன்றம் இறந்த, என் மகளே?
+
+---
+
+POEM_NUMBER: 373
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. நினைத்தொறும் கலிழும் இடும்பை எய்துக,
+2. புலிக் கோள் பிழைத்த கவைக் கோட்டு முது கலை
+3. மான் பிணை அணைதர ஆண் குரல் விளிக்கும்
+4. வெஞ்சுரம் என் மகள் உய்த்த,
+5. வம்பு அமை வல்வில் விடலை தாயே.
+
+---
+
+POEM_NUMBER: 374
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. பல் ஊழ் நினைப்பினும் நல்லென்று ஊழ,
+2. மீளி முன்பின் காளை காப்ப,
+3. முடி அகம் புகாக் கூந்தலள்,
+4. கடுவனும் அறியாக் காடு இறந்தோளே.
+
+---
+
+POEM_NUMBER: 375
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. இது என் பாவை பாவை, இது என்
+2. அலமரு நோக்கின் நலம்வரு சுடர்நுதல்
+3. பைங்கிளி எடுத்த பைங்கிளி, என்றிவை
+4. காண்தொறும் காண்தொறும் கலங்க
+5. நீங்கினளோ, என் பூங்கணோளே?
+
+---
+
+POEM_NUMBER: 376
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. நாள்தொறும் கலிழும் என்னினும், இடை நின்று
+2. காடுபடு தீயின் கனலியர் மாதோ,
+3. நல் வினை நெடு நகர் கல்லெனக் கலங்கப்,
+4. பூப் புரை உண்கண் மடவரல்
+5. போக்கிய புணர்த்த அறன் இல் பாலே.
+
+---
+
+POEM_NUMBER: 377
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. நீர் நசைக்கு ஊக்கிய உயவல் யானை,
+2. இயம் புணர் தூம்பின் உயிர்க்கும் அத்தம்
+3. சென்றனள் மன்ற என் மகளே,
+4. பந்தும், பாவையும், கழங்கும் எமக்கு ஒழித்தே.
+
+---
+
+POEM_NUMBER: 378
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. செல்லிய முயலிப் பாஅய சிறகர்
+2. வாவல் உகக்கும் மாலை, யாம் புலம்பப்
+3. போகிய அவட்கோ நோவேன், தேமொழித்
+4. துணையிலள் கலிழும் நெஞ்சின்
+5. இணையேர் உண்கண் இவட்கு நோவதுவே.
+
+---
+
+POEM_NUMBER: 379
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. தன் அமர் ஆயமொடு நன் மண நுகர்ச்சியின்,
+2. இனிது ஆம் கொல்லோ, தனக்கே பனி வரை
+3. இனக் களிறு வழங்கும் சோலை
+4. வயக்குறு வெள்வேல் அவர் புணர்ந்து செலவே?
+
+---
+
+POEM_NUMBER: 380
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. அத்த நீள் இடை அவனொடு போகிய,
+2. முத்து ஏர் வெண்பல் முகிழ் நகை மடவரல்
+3. தாயர் என்னும் பெயரே வல்லாறு
+4. எடுத்தேன் மன்ற யானே,
+5. கொடுத்தோர் மன்ற அவள் ஆயத்தோரே.
+
+---
+
+POEM_NUMBER: 381
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. பைங்காய் நெல்லி பலவுடன் மிசைந்து,
+2. செங்கால் மராஅத்த வரி நிழல் இருந்தோர்
+3. யார் கொல், அளியர் தாமே, வார் சிறைக்
+4. குறுங்கால் மகன்றில் அன்ன,
+5. உடன் புணர் கொள்கைக் காதலோரே?
+
+---
+
+POEM_NUMBER: 382
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. புள் ஒலிக்கு அமர்த்த கண்ணள், வெள்வேல்
+2. திருந்து கழல் காளையொடு அருஞ்சுரம் கழிவோள்,
+3. எல் இடை அசைந்த கல்லென் சீறூர்ப்,
+4. புனை இழை மகளிர்ப் பயந்த
+5. மனை கெழு பெண்டிர்க்கு நோவுமார் பெரிதே.
+
+---
+
+POEM_NUMBER: 383
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. கோள் சுரும்பு அரற்றும் நாள் சுரத்து அமன்ற
+2. நெடுங்கால் மராஅத்துக் குறுஞ்சினை பற்றி,
+3. வலஞ்சுரி வால் இணர் கொய்தற்கு நின்ற
+4. மள்ளன் உள்ளம் மகிழ் கூர்ந்தன்றே,
+5. பஞ்சாய்ப் பாவைக்கும் தனக்கும்
+6. அம் சாய் கூந்தல் ஆய்வது கண்டே.
+
+---
+
+POEM_NUMBER: 384
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. சேண்புலம் முன்னிய அசைநடை அந்தணிர்!
+2. நும் ஒன்று இரந்தனென், மொழிவல், எம் ஊர்
+3. யாய் நயந்து எடுத்த ஆய் நலம் கவின
+4. ஆரிடை இறந்தனள் என்மின்,
+5. நேர் இறை முன்கை என் ஆயத்தோர்க்கே.
+
+---
+
+POEM_NUMBER: 385
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. கடுங்கண் காளையொடு நெடுந்தேர் ஏறிக்
+2. கோள் வல் வேங்கை மலை பிறக்கு ஒழிய,
+3. வேறு பல் அருஞ்சுரம் இறந்தனள் அவளெனக்
+4. கூறுமின், வாழியோ, ஆறு செல் மாக்கள்
+5. நல் தோள் நயந்து பாராட்டி
+6. எற் கெடுத்து இருந்த அறன் இல் யாய்க்கே.
+
+---
+
+POEM_NUMBER: 386
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. புன்கண் யானையொடு புலி வழங்கு அத்தம்,
+2. நயந்த காதலற் புணர்ந்து சென்றனளே,
+3. நெடுஞ்சுவர் நல் இல் மருண்ட
+4. இடும்பை உறவி, நின் கடுஞ்சூல் மகளே.
+
+---
+
+POEM_NUMBER: 387
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. 'அறம் புரி அருமறை நவின்ற நாவின்
+2. திறம் புரி கொள்கை அந்தணிர்! தொழுவல்!' என்று
+3. ஒண்தொடி வினவும் பேதையம் பெண்டே,
+4. 'கண்டனெம் அம்ம! சுரத்திடை, அவளை
+5. இன்துணை இனிது பாராட்டக்
+6. குன்று உயர் பிறங்கல் மலை இறந்தோளே'.
+
+---
+
+POEM_NUMBER: 388
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. நெருப்பு அவிர் கனலி உருப்பு சினம் தணியக்,
+2. கருங்கால் யாத்து வரி நிழல் இரீஇச்,
+3. சிறு வரை இறப்பின் காண்குவை, செறி தொடிப்
+4. பொன் ஏர் மேனி மடந்தையொடு,
+5. வென் வேல் விடலை முன்னிய சுரனே.
+
+---
+
+POEM_NUMBER: 389
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. செய்வினை பொலிந்த செறி கழல் நோன்தாள்
+2. மை அணல் காளையொடு பைய இயலிப்,
+3. பாவை அன்ன என் ஆய் தொடி மடந்தை
+4. சென்றனள் என்றிர் ஐய,
+5. ஒன்றினவோ, அவள் அம் சிலம்பு அடியே.
+
+---
+
+POEM_NUMBER: 390
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. நல்லோர் ஆங்கண் பரந்து கைதொழுது,
+2. பல் ஊழ் மறுகி வினவுவோயே,
+3. திண் தோள் வல் வில் காளையொடு
+4. கண்டனெம் மன்ற, சுரத்து இடை யாமே.
+
+---
+
+POEM_NUMBER: 391
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. மறு இல் தூவிச் சிறு கருங்காக்கை!
+2. அன்புடை மரபின், நின் கிளையோடு ஆரப்,
+3. பச்சூன் பெய்த பைந்நிண வல்சி
+4. பொலம் புனை கலத்தில் தருகுவென் மாதோ,
+5. வெஞ்சின விறல் வேல் காளையொடு,
+6. அம் சில் ஓதியை வரக் கரைந்தீமே.
+
+---
+
+POEM_NUMBER: 392
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. வேய் வனப்பு இழந்த தோளும், வெயில் தெற
+2. ஆய் கவின் தொலைந்த நுதலும் நோக்கிப்
+3. பரியல், வாழி தோழி, பரியின்
+4. எல்லை இல் இடும்பை தரூஉம்
+5. நல் வரை நாடனொடு வந்தமாறே.
+
+---
+
+POEM_NUMBER: 393
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. துறந்ததன் கொண்டு துயர் அடச் சாஅய்
+2. அறம் புலந்து பழிக்கும் அண்கணாட்டி,
+3. எவ்வ நெஞ்சிற்கு ஏமமாக
+4. வந்தனளோ நின் மகளே,
+5. வெந்திறல் வெள்வேல் விடலை முந்துறவே.
+
+---
+
+POEM_NUMBER: 394
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. மாண்பு இல் கொள்கையொடு, மயங்கு துயர் செய்த
+2. அன்பு இல் அறனும் அருளிற்று மன்ற,
+3. வெஞ்சுரம் இறந்த அம் சில் ஓதிப்
+4. பெரு மட மான்பிணை அலைத்த
+5. சிறு நுதல் குறுமகள் காட்டிய, வம்மே.
+
+---
+
+POEM_NUMBER: 395
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. முளி வயிர்ப் பிறந்த வளி வளர் கூர் எரிச்
+2. சுடர்விடு நெடுங்கொடி விடர் குகை முழங்கும்,
+3. இன்னா அருஞ்சுரம் தீர்ந்தனம், மென்மெல
+4. ஏகுமதி, வாழியோ குறுமகள், போது கலந்து
+5. கறங்கு இசை அருவி வீழும்
+6. பிறங்கு இருஞ் சோலை நம் மலை கெழு நாட்டே.
+
+---
+
+POEM_NUMBER: 396
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. புலிப் பொறி வேங்கைப் பொன் இணர் கொய்து, நின்
+2. கதுப்பயல் அணியும் அளவை பைபயச்
+3. சுரத்திடை அயர்ச்சியை ஆறுக மடந்தை!
+4. கல் கெழு சிறப்பின் நம்மூர்,
+5. எல் விருந்தாகிப் புகுகம் நாமே.
+
+---
+
+POEM_NUMBER: 397
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. கவிழ்மயிர் எருத்தின் செந்நாய் ஏற்றை
+2. குருளைப் பன்றி கொள்ளாது கழியும்
+3. சுரன் அணி வாரா நின்றனள் என்பது,
+4. முன்னுற விரைந்த நீர் உரைமின்,
+5. இன்னகை முறுவல் என் ஆயத்தோர்க்கே.
+
+---
+
+POEM_NUMBER: 398
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. புள்ளும் அறியாப் பல் பழம் பழுனி,
+2. மடமான் அறியாத் தட நீர் நிலைஇச்
+3. சுர நனி இனிய ஆகுக என்று,
+4. நினைத்தொறும் கலிழும் என்னினும்,
+5. மிகப் பெரிது புலம்பின்று தோழி, நம் ஊரே.
+
+---
+
+POEM_NUMBER: 399
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. நும் மனைச் சிலம்பு கழீஇ அயரினும்,
+2. எம் மனை வதுவை நன் மணம் கழிகெனச்
+3. சொல்லின் எவனோ மற்றே, வென்வேல்
+4. மை அற விளங்கிய கழல் அடிப்
+5. பொய் வல் காளையை ஈன்ற தாய்க்கே?
+
+---
+
+POEM_NUMBER: 400
+BOOK: Aingurunuru
+AUTHOR_TAMIL: ஓதலாந்தையார்
+AUTHOR_ENGLISH: Ōthalānthaiyār
+CATEGORY: Agam
+TINAI: Palai
+
+LINES:
+1. மள்ளர் அன்ன மரவம் தழீஇ,
+2. மகளிர் அன்ன ஆடு கொடி நுடக்கும்,
+3. அரும் பதம் கொண்ட பெரும் பத வேனில்,
+4. காதல் புணர்ந்தனள் ஆகி, ஆய் கழல்
+5. வெஞ்சின விறல் வேல் காளையோடு
+6. இன்று புகுதருமென, வந்தன்று தூதே.
+
+---
+
+POEM_NUMBER: 401
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. மறி இடைப்படுத்த மான் பிணை போலப்,
+2. புதல்வன் நடுவணனாக, நன்றும்
+3. இனிது மன்ற அவர் கிடக்கை, முனிவு இன்றி,
+4. நீல் நிற வியல் அகம் கவைஇய,
+5. ஈனும் உம்பரும் பெறல் அருங்குரைத்தே.
+
+---
+
+POEM_NUMBER: 402
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. புதல்வன் கவைஇய தாய் புற முயங்கி
+2. நசையினன் வதிந்த கிடக்கை, பாணர்
+3. நரம்புளர் முரற்கை போல,
+4. இனிதால் அம்ம பண்புமார் உடைத்தே.
+
+---
+
+POEM_NUMBER: 403
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. புணர்ந்த காதலியின் புதல்வன் தலையும்
+2. அமர்ந்த உள்ளம் பெரிதாகின்றே,
+3. அகன் பெருஞ்சிறப்பின் தந்தை பெயரன்
+4. முறுவலின் இன்னகை பயிற்றிச்,
+5. சிறு தேர் உருட்டும் தளர் நடை கண்டே.
+
+---
+
+POEM_NUMBER: 404
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. வாணுதல் அரிவை மகன் முலை ஊட்டத்,
+2. தானவன் சிறுபுறம் கவையினன் நன்று,
+3. நறும் பூம் தண் புறவு அணிந்த
+4. குறும்பல் பொறைய நாடு கிழவோனே.
+
+---
+
+POEM_NUMBER: 405
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. ஒண் சுடர்ப் பாண்டில் செஞ்சுடர் போல,
+2. மனைக்கு விளக்காயினள் மன்ற, கனைப் பெயல்
+3. பூப் பல அணிந்த வைப்பின்
+4. புறவு அணி நாடன், புதல்வன் தாயே.
+
+---
+
+POEM_NUMBER: 406
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. மாதர் உண்கண் மகன் விளையாடக்,
+2. காதலித் தழீஇ இனிது இருந்தனனே,
+3. தாது ஆர் பிரசம் ஊதும்
+4. போது ஆர் புறவின் நாடு கிழவோனே.
+
+---
+
+POEM_NUMBER: 407
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நயந்த காதலித் தழீஇப், பாணர்
+2. நயம்படு முரற்கையின் யாத்த பயன் தெரிந்து,
+3. இன்புறு புணர்ச்சி நுகரும்,
+4. மென்புல வைப்பின் நாடு கிழவோனே.
+
+---
+
+POEM_NUMBER: 408
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பாணர் முல்லை பாடச், சுடர் இழை
+2. வாணுதல் அரிவை முல்லை மலைய,
+3. இனிது இருந்தனனே நெடுந்தகை,
+4. துனி தீர் கொள்கைத் தன் புதல்வனொடு பொலிந்தே.
+
+---
+
+POEM_NUMBER: 409
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. புதல்வன் கவைஇயினன் தந்தை, மென் மொழிப்
+2. புதல்வன் தாயோ இருவரும் கவையினள்,
+3. இனிது மன்ற அவர் கிடக்கை,
+4. நனி இரும் பரப்பின் இவ் உலகுடன் உறுமே.
+
+---
+
+POEM_NUMBER: 410
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. மாலை முன்றில் குறுங்கால் கட்டில்
+2. மனையோள் துணைவியாகப், புதல்வன்
+3. மார்பின் ஊரும் மகிழ் நகை இன்பப்
+4. பொழுதிற்கு ஒத்தன்று மன்னே,
+5. மென் பிணித்து அம்ம பாணனது யாழே.
+
+---
+
+POEM_NUMBER: 411
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. ஆர் குரல் எழிலி அழிதுளி சிதறிக்,
+2. கார் தொடங்கின்றால் காமர் புறவே,
+3. வீழ்தரு புதுப் புனல் ஆடுகம்,
+4. தாழ் இருங்கூந்தல், வம்மதி விரைந்தே.
+
+---
+
+POEM_NUMBER: 412
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. காயா, கொன்றை, நெய்தல், முல்லை,
+2. போது அவிழ் தளவொடு, பிடவு அலர்ந்து கவினிப்,
+3. பூ அணி கொண்டன்றால் புறவே,
+4. பேர் அமர்க் கண்ணி, ஆடுகம் விரைந்தே.
+
+---
+
+POEM_NUMBER: 413
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நின் நுதல் நாறும் நறுந்தண் புறவில்,
+2. நின்னே போல மஞ்ஞை ஆலக்,
+3. கார் தொடங்கின்றால் பொழுதே,
+4. பேரியல் அரிவை, நாம் நயத்தகவே.
+
+---
+
+POEM_NUMBER: 414
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. புள்ளும் மாவும் புணர்ந்து இனிது உகளக்,
+2. கோட்டவும் கொடியவும் பூப் பல பழுனி,
+3. மெல்லியல் அரிவை, கண்டிகும்,
+4. மல்லல் ஆகிய மணம் கமழ் புறவே.
+
+---
+
+POEM_NUMBER: 415
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. இதுவே மடந்தை நாம் மேவிய பொழுதே,
+2. உதுவே மடந்தை நாம் உள்ளிய புறவே,
+3. இனிதுடன் கழிக்கின் இளமை
+4. இனிதால் அம்ம, இனியவர்ப் புணர்வே.
+
+---
+
+POEM_NUMBER: 416
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. போது ஆர் நறுந்துகள் கவினிப் புறவில் தாது ஆர்ந்து
+2. களிச் சுரும்பு அரற்றும் காமர் புதலின்,
+3. மடப் பிடி தழீஇய மாவே,
+4. சுடர்த் தொடி மடவரல், புணர்ந்தனம் யாமே.
+
+---
+
+POEM_NUMBER: 417
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. கார் கலந்தன்றால் புறவே, பலவுடன்
+2. ஏர் பரந்தனவால் புனமே, ஏர் கலந்து
+3. தாது ஆர் பிரசம் மொய்ப்பப்
+4. போது ஆர் கூந்தல், முயங்கினள் எம்மே.
+
+---
+
+POEM_NUMBER: 418
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. வானம்பாடி வறம் களைந்து ஆனாது,
+2. அழிதுளி தலைஇய புறவில், காண்வர
+3. வானர மகளோ நீயே,
+4. மாண் முலை அடைய முயங்கியோயே?
+
+---
+
+POEM_NUMBER: 419
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. உயிர் கலந்து ஒன்றிய செயிர் தீர் கேண்மைப்
+2. பிரிந்து உறல் அறியா விருந்து கவவி,
+3. நம் போல் நயவரப் புணர்ந்தன,
+4. கண்டிகும் மடவரல், புறவின் மாவே.
+
+---
+
+POEM_NUMBER: 420
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பொன் என மலர்ந்த கொன்றை, மணி எனத்
+2. தேம்படு காயா, மலர்ந்த தோன்றியொடு,
+3. நன்னலம் எய்தினை புறவே, நின்னைக்
+4. காணிய வருதும் யாமே
+5. வாணுதல் அரிவையொடு, ஆய் நலம் படர்ந்தே.
+
+---
+
+POEM_NUMBER: 421
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. மாலை வெண்காழ் காவலர் வீச,
+2. நறும் பூம்புறவின் ஒடுங்கு முயல் இரியும்,
+3. புன்புல நாடன் மட மகள்,
+4. நலம் கிளர் பணைத்தோள், விலங்கின செலவே.
+
+---
+
+POEM_NUMBER: 422
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. கடும் பரி நெடுந்தேர்க் கால் வல் புரவி,
+2. நெடுங்கொடி முல்லையொடு தளவ மலர் உதிர,
+3. விரையுபு கடைஇ நாம் செல்லின்,
+4. நிரை வளை முன் கை, வருந்தலோ இலளே.
+
+---
+
+POEM_NUMBER: 423
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. மா மழை இடியூஉத் தளி சொரிந்தன்றே,
+2. வாணுதல் பசப்பச் செலவு அயர்ந்தனையே,
+3. யாமே நிந்துறந்து அமையலம்,
+4. ஆய் மலர் உண்கணும் நீர் நிறைந்தனவே.
+
+---
+
+POEM_NUMBER: 424
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. புறவு அணி நாடன் காதல் மட மகள்
+2. ஒண்ணுதல் பசப்ப நீ செலின், தெண்ணீர்ப்
+3. போது அவிழ் தாமரை அன்ன நின்
+4. காதலம் புதல்வன், அழும் இனி முலைக்கே.
+
+---
+
+POEM_NUMBER: 425
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. புன்புறப் பேடை சேவல் இன்புற
+2. மன்னர் இயவரின் இரங்கும் கானம்,
+3. வல்லை நெடுந்தேர் கடவின்,
+4. அல்லல் அரு நோய் ஒழித்தல் எமக்கு எளிதே.
+
+---
+
+POEM_NUMBER: 426
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. வென்வேல் வேந்தன் அருந்தொழில் துறந்து, இனி
+2. நன்னுதல், யானே செலவு ஒழிந்தனெனே,
+3. முரசு பாடு அதிர ஏவி
+4. அரசுபடக் கடக்கும், அருஞ் சமத்தானே.
+
+---
+
+POEM_NUMBER: 427
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பேர் அமர் மலர்க் கண் மடந்தை! நீயே,
+2. கார் எதிர் பொழுது என விடல் ஒல்லாயே,
+3. போருடை வேந்தன் பாசறை
+4. வாரான் அவன் எனச், செலவு அழுங்கினனே.
+
+---
+
+POEM_NUMBER: 428
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. தேர் செலவு அழுங்கத் திரு வில் கோலி
+2. ஆர்கலி எழிலி சோர் தொடங்கின்றே,
+3. வேந்து விடு விழுத்தொழில் ஒழிய,
+4. யான் தொடங்கினனால் நின் புறந்தரவே.
+
+---
+
+POEM_NUMBER: 429
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பல் இருங்கூந்தல், பசப்பு நீ விடின்,
+2. செல்வேம் தில்ல யாமே, செற்றார்
+3. வெல் கொடி அரணம் முருக்கிய
+4. கல்லா யானை வேந்து பகை வெலற்கே.
+
+---
+
+POEM_NUMBER: 430
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நெடும் பொறை மிசைய குறுங்கால் கொன்றை,
+2. அடர் பொன் என்னச் சுடர் இதழ் பகரும்,
+3. கான் கெழு நாடன் மகளே!
+4. அழுதல் ஆன்றிசின், அழுங்குவல் செலவே.
+
+---
+
+POEM_NUMBER: 431
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நன்றே காதலர் சென்ற ஆறே,
+2. அணி நிற இரும்பொறை மீமிசை,
+3. மணி நிற உருவின தோகையும் உடைத்தே.
+
+---
+
+POEM_NUMBER: 432
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நன்றே காதலர் சென்ற ஆறே,
+2. சுடு பொன் அன்ன கொன்றை சூடிக்
+3. கடி புகுவனர் போல், மள்ளரும் உடைத்தே.
+
+---
+
+POEM_NUMBER: 433
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நன்றே காதலர் சென்ற ஆறே,
+2. நீர்ப்பட எழிலி வீசும்
+3. கார்ப்பெயற்கு எதிரிய கானமும் உடைத்தே.
+
+---
+
+POEM_NUMBER: 434
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நன்றே காதலர் சென்ற ஆறே,
+2. மறியுடை மான் பிணை உகளத்,
+3. தண் பெயல் பொழிந்த இன்பமும் உடைத்தே.
+
+---
+
+POEM_NUMBER: 435
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நன்றே காதலர் சென்ற ஆறே,
+2. நிலனணி நெய்தல் மலரப்,
+3. பொலனணி கொன்றையும், பிடவமும் உடைத்தே.
+
+---
+
+POEM_NUMBER: 436
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நன்றே காதலர் சென்ற ஆறே,
+2. நன் பொன் அன்ன சுடர் இணர்க்
+3. கொன்றையொடு, மலர்ந்த குருந்துமாரும் உடைத்தே.
+
+---
+
+POEM_NUMBER: 437
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நன்றே காதலர் சென்ற ஆறே,
+2. ஆலித் தண் மழை தலைஇய,
+3. வாலிய மலர்ந்த முல்லையும் உடைத்தே.
+
+---
+
+POEM_NUMBER: 438
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நன்றே காதலர் சென்ற ஆறே,
+2. பைம்புதல் பல் பூ மலர,
+3. இன்புறத் தகுந பண்புமார் உடைத்தே.
+
+---
+
+POEM_NUMBER: 439
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நன்றே காதலர் சென்ற ஆறே,
+2. குருந்தங் கண்ணிக் கோவலர்
+3. பெருந்தண் நிலைய, பாக்கமும் உடைத்தே.
+
+---
+
+POEM_NUMBER: 440
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நன்றே காதலர் சென்ற ஆறே,
+2. தண் பெயல் அளித்த பொழுதின்,
+3. ஒண் சுடர்த் தோன்றியும், தளவமும் உடைத்தே.
+
+---
+
+POEM_NUMBER: 441
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. ஐய ஆயின செய்யோள் கிளவி,
+2. கார் நாள் உருமொடு கையறப் பிரிந்தென,
+3. நோய் நன்கு செய்தன எமக்கே,
+4. யாம் உறு துயரம், அவள் அறியினோ நன்றே.
+
+---
+
+POEM_NUMBER: 442
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பெருஞ்சின வேந்தன் அருந்தொழில் தணியின்,
+2. விருந்து நனி பெறுதலும் உரியள் மாதோ,
+3. இருண்டு தோன்று விசும்பின் உயர்நிலை உலகத்து
+4. அருந்ததி அனைய கற்பின்,
+5. குரும்பை மணிப் பூண் புதல்வன் தாயே.
+
+---
+
+POEM_NUMBER: 443
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நனி சேய்த்து என்னாது நல் தேர் ஏறிச் சென்று,
+2. இலங்கு நிலவின் இளம் பிறை போலக்
+3. காண்குவெம் தில்ல அவள் கவின் பெறு சுடர்நுதல்,
+4. விண் உயர் அரண் பல வெளவிய
+5. மண்ணுறு முரசின் வேந்து தொழில் விடினே.
+
+---
+
+POEM_NUMBER: 444
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பெருந்தோள் மடவரல் காண்குவெம் தில்ல,
+2. நீண் மதில் அரணம் பாய்ந்தெனத் தொடி பிளந்து
+3. வைந்நுதி மழுகிய தடங்கோட்டு யானை
+4. வென் வேல் வேந்தன் பகை தணிந்து,
+5. இன்னும் தன்னாட்டு முன்னுதல் பெறினே.
+
+---
+
+POEM_NUMBER: 445
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. புகழ் சால் சிறப்பின் காதலி புலம்பத்
+2. துறந்து வந்தனையே, அருந்தொழில் கட்டூர்
+3. நல் ஏறு தழீஇ நாகு பெயர் காலை
+4. உள்ளுதொறும், கலிழும் நெஞ்சம்,
+5. வல்லே எம்மையும் வர விழைந்தனையே.
+
+---
+
+POEM_NUMBER: 446
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. முல்லை நாறும் கூந்தல் கமழ் கொள
+2. நல்ல காண்குவம் மாஅயோயே!
+3. பாசறை அருந்தொழில் உதவி நம்
+4. காதல் நன்னாட்டுப் போதரும் பொழுதே.
+
+---
+
+POEM_NUMBER: 447
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பிணி வீடு பெறுக மன்னவன் தொழிலே,
+2. பனி வளர் தளவின் சிரல் வாய்ச் செம்முகை
+3. யாடு சிறை வண்டு அவிழ்ப்பப்,
+4. பாடல் சான்ற காண்கம் வாணுதலே.
+
+---
+
+POEM_NUMBER: 448
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. தழங்குரல் முரசம் காலை இயம்பக்
+2. கடுஞ்சின வேந்தன் தொழில் எதிர்ந்தனனே,
+3. மெல்லவல் மருங்கின் முல்லை பூப்பப்
+4. பொங்கு பெயல் கனைதுளி கார் எதிர்ந்தன்றே,
+5. அம் சில் ஓதியை உள்ளுதொறும்,
+6. துஞ்சாது அலமரல் நாம் எதிர்ந்தனமே.
+
+---
+
+POEM_NUMBER: 449
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. முரம்பு கண் உடையத் திரியும் திகிரியொடு
+2. பணை நிலை முனைஇய வயமாப் புணர்ந்து,
+3. திண்ணிதின் மாண்டன்று தேரே,
+4. ஒண்ணுதல் காண்குவம், வேந்து வினை முடினே.
+
+---
+
+POEM_NUMBER: 450
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. முரசு மாறு இரட்டும் அருந்தொழில் பகை தணிந்து,
+2. நாடு முன்னியரோ பீடு கெழு வேந்தன்
+3. வெய்ய உயிர்க்கும் நோய் தணியச்
+4. செய்யோள் இளமுலைப் படீஇயர் என் கண்ணே.
+
+---
+
+POEM_NUMBER: 451
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. கார் செய் காலையொடு கையறப் பிரிந்தோρ
+2. தேர்தரு விருந்தில் தவிர்குதல் யாவது,
+3. மாற்று அருந்தானை நோக்கி
+4. ஆற்றவும் இருத்தல், வேந்தனது தொழிலே?
+
+---
+
+POEM_NUMBER: 452
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. வறந்த ஞாலம் தளிர்ப்ப வீசிக்
+2. கறங்குரல் எழிலி கார் செய்தன்றே,
+3. பகை வெங்காதலர் திறைதரு முயற்சி,
+4. மென் தோள் ஆய் கவின் மறையப்
+5. பொன் புனை பீரத்து அலர் செய்தன்றே.
+
+---
+
+POEM_NUMBER: 453
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. அவல்தொறும் தேரை தெவிட்ட, மிசைதொறும்
+2. வெங்குரல் புள்ளினம் ஒலிப்ப, உதுக்காண்,
+3. கார் தொடங்கின்றால் காலை, அதனால்
+4. நீர் தொடங்கினவால் நெடுங்கண், அவர்
+5. தேர் தொடங்கின்றால் நம் வயினானே.
+
+---
+
+POEM_NUMBER: 454
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. தளவின் பைங்கொடி தழீஇப், பையென
+2. நிலவின் அன்ன நேர் அரும்பு பேணிக்,
+3. கார் நயந்து எய்தும் முல்லை, அவர்
+4. தேர் நயந்து உறையும், என் மாமைக் கவினே.
+
+---
+
+POEM_NUMBER: 455
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. அரசு பகை தணிய, முரசு படச் சினைஇ,
+2. ஆர் குரல் எழிலி கார் தொடங்கின்றே,
+3. அளியவோ அளிய தாமே, ஒளி பசந்து
+4. மின் இழை ஞெகிழச் சாஅய்த்
+5. தொன்னலம் இழந்த என் தட மென்தோளே.
+
+---
+
+POEM_NUMBER: 456
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. உள்ளார் கொல்லோ தோழி, வெள் இதழ்
+2. பகல் மதி உருவின் பகன்றை மாமலர்
+3. வெண்கொடி ஈங்கை பைம் புதல் அணியும்
+4. அரும் பனி அளைஇய கூதிர்,
+5. ஒருங்கு இவண் உறைதல் தெளித்து அகன்றோரே?
+
+---
+
+POEM_NUMBER: 457
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பெய் பனி நலிய உய்தல் செல்லாது,
+2. குருகினம் நரலும் பிரிவருங் காலைத்,
+3. துறந்து அமைகல்லார் காதலர்,
+4. மறந்து அமைகல்லாது, என் மடங்கெழு நெஞ்சே.
+
+---
+
+POEM_NUMBER: 458
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. துணர்க்காய்க் கொன்றைக் குழற்பழம் ஊழ்த்தன,
+2. அதிர் பெயற்கு எதிரிய சிதர் கொள் தண் மலர்,
+3. பாணர் பெருமகன் பிரிந்தென,
+4. மாண் நலம் இழந்த என் கண் போன்றனவே.
+
+---
+
+POEM_NUMBER: 459
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. மெல் இறைப் பணைத்தோள் பசலை தீரப்
+2. புல்லவும் இயைவது கொல்லோ, புல்லார்
+3. ஆர் அரண் கடந்த சீர் கெழு தானை
+4. வெல்போர் வேந்தனொடு சென்ற,
+5. நல் வயல் ஊரன் நறும் தண் மார்பே?
+
+---
+
+POEM_NUMBER: 460
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பெருஞ்சின வேந்தனும் பாசறை முனியான்,
+2. இருங்கலி வெற்பன் தூதும் தோன்றா,
+3. ததை இலை வாழை முழு முதல் அசைய,
+4. இன்னா வாடையும் அலைக்கும்,
+5. என் ஆகுவென் கொல், அளியென் யானே?
+
+---
+
+POEM_NUMBER: 461
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. வான் பிசிர்க் கருவியின் பிடவு முகை தகையக்
+2. கான் பிசிர் கற்பக் கார் தொடங்கின்றே,
+3. இனையல், வாழி தோழி, எனையதூஉம்
+4. நின் துறந்து அமைகுவர் அல்லர்,
+5. வெற்றி வேந்தன் பாசறையோரே.
+
+---
+
+POEM_NUMBER: 462
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. ஏதில பெய்ம் மழை காரென மயங்கிய
+2. பேதையம் கொன்றைக் கோதை நிலை நோக்கி,
+3. எவன் இனி மடந்தை, நின் கலிழ்வே, நின் வயின்
+4. தகை எழில் வாட்டுநர் அல்லர்,
+5. முகை அவிழ் புறவின் நாடு இறந்தோரே.
+
+---
+
+POEM_NUMBER: 463
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. புதன் மிசை நறு மலர் கவின் பெறத் தொடரி, நின்
+2. நலமிகு கூந்தல் தகை கொளப் புனைய
+3. வாராது அமையலோ இலரே, நேரார்
+4. நாடுபடு நன்கலம் தரீஇயர்
+5. நீடினர் தோழி, நம் காதலோரே.
+
+---
+
+POEM_NUMBER: 464
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. கண்ணெனக் கருவிளை மலரப், பொன்னென
+2. இவர் கொடிப் பீரம் இரும் புதல் மலரும்
+3. அற்சிரம் மறக்குநர் அல்லர், நின்
+4. நல் தோள் மருவரற்கு உலமருவோரே.
+
+---
+
+POEM_NUMBER: 465
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நீர் இகுவு அன்ன நிமிர் பரி நெடுந்தேர்
+2. கார் செய் கானம் பிற்படக் கடைஇ,
+3. மயங்கு மலர் அகலம் நீ இனிது முயங்க
+4. வருவர், வாழி தோழி,
+5. செரு வெங்குரிசில் தணிந்தனன் பகையே.
+
+---
+
+POEM_NUMBER: 466
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. வேந்து விடு விழுத்தொழில் எய்தி, ஏந்து கோட்டு
+2. அண்ணல் யானை அரசு விடுத்து, இனியே
+3. எண்ணிய நாள் அகம் வருதல், பெண் இயல்
+4. காமர் சுடர்நுதல் விளங்கும்
+5. தேமொழி அரிவை, தெளிந்திசின் யானே.
+
+---
+
+POEM_NUMBER: 467
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. புனை இழை நெகிழச் சாஅய், நொந்து நொந்து
+2. இனையல், வாழியோ இகுளை, வினைவயின்
+3. சென்றோர் நீடினர் பெரிதெனத், தங்காது
+4. நம்மினும் விரையும் என்ப,
+5. வெம்முரண் யானை விறல் போர் வேந்தே.
+
+---
+
+POEM_NUMBER: 468
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. வரி நுணல் கறங்கத், தேரை தெவிட்டக்,
+2. கார் தொடங்கின்றே காலை, இனி நின்
+3. நேர் இறை பணைத்தோட்கு ஆர் விருந்தாக,
+4. வடி மணி நெடுந்தேர் கடைஇ
+5. வருவர் இன்று நம் காதலோரே.
+
+---
+
+POEM_NUMBER: 469
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பைந்தினை உணங்கல் செம்பூழ் கவரும்
+2. வன்புல நாடன் தரீஇய, வலன் ஏர்பு
+3. அங்கண் இரு விசும்பு அதிர ஏறொடு
+4. பெயல் தொடங்கின்றே வானம்,
+5. காண்குவம் வம்மோ, பூங்கணோயே.
+
+---
+
+POEM_NUMBER: 470
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. இரு நிலம் குளிர்ப்ப வீசி, அல்கலும்
+2. அரும் பனி அளைஇய அற்சிரக் காலை
+3. உள்ளார் காதலர் ஆயின், ஒள்ளிழை,
+4. சிறப்பொடு விளங்கிய காட்சி
+5. மறக்க விடுமோ, நின் மாமைக் கவினே?
+
+---
+
+POEM_NUMBER: 471
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. எல் வளை நெகிழ, மேனி வாடப்,
+2. பல்லிதழ் உண்கண் பனி அலைக் கலங்கத்,
+3. துறந்தோன் மன்ற மறங்கெழு குருசில்,
+4. அது மற்று உணர்ந்தனை போலாய்,
+5. இன்னும் வருதி, என் அவர் தகவே?
+
+---
+
+POEM_NUMBER: 472
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. கைவல் சீறியாழ் பாண! นுமரே
+2. செய்த பருவம் வந்து நின்றதுவே,
+3. எம்மின் உணரார் ஆயினும், தம் வயின்
+4. பொய்படு கிளவி நாணலும்
+5. எய்யார் ஆகுதல், நோகோ யானே.
+
+---
+
+POEM_NUMBER: 473
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பலர் புகழ் சிறப்பின் நும் குருசில் உள்ளிச்
+2. செலவு நீ நயந்தனை ஆயின் மன்ற,
+3. இன்னா அரும் படர் எம் வயின் செய்த
+4. பொய்வலாளர் போலக்
+5. கைவல் பாண! எம் மறாவாதீமே.
+
+---
+
+POEM_NUMBER: 474
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. மை அறு சுடர்நுதல் விளங்கக், கறுத்தோர்
+2. செய் அரண் சிதைத்த செருமிகு தானையொடு,
+3. கதழ் பரி நெடுந்தேர் அதர் படக் கடைஇச்
+4. சென்றவர்த் தருகுவல், என்னும்
+5. நன்றால் அம்ம, பாணனது அறிவே.
+
+---
+
+POEM_NUMBER: 475
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. தொடி நிலை கலங்க, வாடிய தோளும்,
+2. வடி நலன் இழந்த என் கண்ணும் நோக்கிப்,
+3. பெரிது புலம்பினனே சீறியாழ்ப் பாணன்,
+4. எம் வெங்காதலொடு பிரிந்தோர்
+5. தம்மோன் போலான், பேரன்பினனே.
+
+---
+
+POEM_NUMBER: 476
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. கருவி வானம் கார் சிறந்து ஆர்ப்ப,
+2. பருவம் செய்தன பைங்கொடி முல்லை
+3. பல் ஆன் கோவலர் படலைக் கூட்டும்,
+4. அன்பு இல் மாலையும் உடைத்தோ,
+5. அன்பு இல் பாண, அவர் சென்ற நாடே?
+
+---
+
+POEM_NUMBER: 477
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பனி மலர் நெடுங்கண் பசலை பாயத்,
+2. துனி மலி துயரமொடு அரும் படர் உழப்போள்
+3. கையறு நெஞ்சிற்கு உயவுத் துணையாகச்,
+4. சிறு வரைத் தங்குவையாயின்,
+5. காண்குவை மன்னால் பாண, எம் தேரே.
+
+---
+
+POEM_NUMBER: 478
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நீடினம் என்று கொடுமை தூற்றி
+2. வாடிய நுதலள் ஆகிப் பிறிது நினைந்து,
+3. யாம் வெங்காதலி நோய் மிகச் சாஅய்ச்
+4. சொல்லியது உரைமதி நீயே,
+5. முல்லை நல்யாழ்ப் பாண, மற்று எமக்கே.
+
+---
+
+POEM_NUMBER: 479
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. சொல்லுமதி பாண, சொல்லுதோறும் இனிய,
+2. நாடு இடை விலங்கிய எம்வயின், நாள்தொறும்
+3. அரும்பனி கலந்த அருள் இல் வாடை
+4. தனிமை எள்ளும் பொழுதில்,
+5. பனி மலர்க் கண்ணி கூறியது எமக்கே.
+
+---
+
+POEM_NUMBER: 480
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நினக்கு யாம் பாணரும் அல்லேம், எமக்கு
+2. நீயுங் குருசிலை யல்லை மாதோ,
+3. நின் வெங்காதலி தனி மனைப் புலம்பி,
+4. ஈரிதழ் உண்கண் உகுத்த
+5. பூசல் கேட்டும், அருளாதோயே.
+
+---
+
+POEM_NUMBER: 481
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. சாய் இறைப் பணைத்தோள் அவ்வரி அல்குல்
+2. சேய் இழை மாதரை உள்ளி நோய் விட,
+3. முள் இட்டு ஊர்மதி வலவ, நின்
+4. புள் இயல் கலிமாப் பூண்ட தேரே.
+
+---
+
+POEM_NUMBER: 482
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. தெரியிழை அரிவைக்குப் பெரு விருந்தாக,
+2. வல் விரைத்து கடவுமதி பாக, வெள்வேல்
+3. வென்று அடு தானை வேந்தனொடு
+4. நாளிடைச் சேப்பின், ஊழியின் நெடிதே.
+
+---
+
+POEM_NUMBER: 483
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. ஆறு வனப்பு எய்த அலர் தாயினவே,
+2. வேந்து விட்டனனே, மா விரைந்தனவே,
+3. முன்னுறக் கடவுமதி பாக,
+4. நன்னுதல் அரிவை தன்னலம் பெறவே.
+
+---
+
+POEM_NUMBER: 484
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. வேனில் நீங்கக் கார் மழை தலைஇக்
+2. காடு கவின் கொண்டன்று பொழுது, பாடு சிறந்து
+3. கடியக் கடவுமதி பாக,
+4. நெடிய நீடினம் நேரிழை மறந்தே.
+
+---
+
+POEM_NUMBER: 485
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. அரும் படர் அவலம் அவளும் தீரப்,
+2. பெருந்தோள் நலம்வர யாமும் முயங்க,
+3. ஏமதி வலவ தேரே,
+4. மா மருண்டு உகளும் மலர் அணிப் புறவே.
+
+---
+
+POEM_NUMBER: 486
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பெரும் புன் மாலை ஆனாது நினைஇ,
+2. அரும் படர் உழத்தல் யாவது, என்றும்
+3. புல்லி ஆற்றாப் புரையோள் காண,
+4. வள்பு தெரிந்து ஊர்மதி, நின்
+5. புள் இயல் கலி மாப் பூண்ட தேரே.
+
+---
+
+POEM_NUMBER: 487
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. இது மன் பிரிந்தோர் உள்ளும் பொழுதே,
+2. செறி தொடி உள்ளம் உவப்ப,
+3. மதியுடை வலவ, ஏமதி தேரே.
+
+---
+
+POEM_NUMBER: 488
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. கருவி வானம் பெயல் தொடங்கின்றே,
+2. பெருவிறல் காதலி கருதும் பொழுதே,
+3. விரி உளை நன் மாப் பூட்டிப்
+4. பருவரல் தீரக் கடவுமதி தேரே.
+
+---
+
+POEM_NUMBER: 489
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. அஞ்சிறை வண்டின் அரியினம் மொய்ப்ப,
+2. மென்புல முல்லை மலரும் மாலைப்,
+3. பையுள் நெஞ்சின் தையல் உவப்ப,
+4. நுண் புரி வண் கயிறு இயக்கி, நின்
+5. வண் பரி நெடுந்தேர் கடவுமதி விரைந்தே.
+
+---
+
+POEM_NUMBER: 490
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. அம் தீம் கிளவி தான் தர எம் வயின்
+2. வந்தன்று மாதோ காரே, ஆவயின்
+3. ஆய்தொடி அரும் படர் தீர,
+4. ஆய் மணி நெடுந்தேர் கடவுமதி விரைந்தே.
+
+---
+
+POEM_NUMBER: 491
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. கார் எதிர் காலை யாம், ஓவின்று நலிய,
+2. நொந்து நொந்து உயவும் உள்ளமொடு,
+3. வந்தனெம் மடந்தை, நின் ஏர் தர விரைந்தே.
+
+---
+
+POEM_NUMBER: 492
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. நின்னே போலும் மஞ்ஞை ஆல, நின்
+2. நன்னுதல் நாறும் முல்லை மலர,
+3. நின்னே போல மா மருண்டு நோக்க,
+4. நின்னே உள்ளி வந்தனென்
+5. நன்னுதல் அரிவை, காரினும் விரைந்தே.
+
+---
+
+POEM_NUMBER: 493
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. ஏறு முரண் சிறப்ப, ஏறு எதிர் இரங்க,
+2. மாதர் மான் பிணை மறியொடு மறுகக்,
+3. கார் தொடங்கின்றே காலை,
+4. நேர் இறை முன்கை, நின் உள்ளி யாம் வரவே.
+
+---
+
+POEM_NUMBER: 494
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. வண்டு தாது ஊதத், தேரை தெவிட்டத்,
+2. தண் கமழ் புறவின் முல்லை மலர,
+3. இன்புறுத்தன்று பொழுதே,
+4. நின் குறி வாய்த்தனம், தீர்க இனி படரே.
+
+---
+
+POEM_NUMBER: 495
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. செந்நில மருங்கில் பல் மலர் தாஅய்ப்,
+2. புலம்பு தீர்ந்து இனியவாயின புறவே,
+3. பின்னிருங் கூந்தல் நன்னலம் புனைய,
+4. உள்ளுதொறும் கலிழும் நெஞ்சமொடு,
+5. முள் எயிற்று அரிவை, யாம் வந்தமாறே.
+
+---
+
+POEM_NUMBER: 496
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. மா புதல் சேர, வரகு இணர் சிறப்ப,
+2. மா மலை புலம்பக் கார் கலித்து அலைப்பப்,
+3. பேரமர்க்கண்ணி, நின் பிரிந்து உறைநர்
+4. தோள் துணையாக வந்தனர்,
+5. போது அவிழ் கூந்தலும் பூ விரும்புகவே.
+
+---
+
+POEM_NUMBER: 497
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. குறும் பல் கோதை கொன்றை மலர,
+2. நெடுஞ்செம் புற்றம் ஈயல் பகர,
+3. மாபசி மறுப்பக் கார் தொடங்கின்றே,
+4. பேரியல் அரிவை, நின் உள்ளிப்
+5. போர் வெங்குருசில் வந்தமாறே.
+
+---
+
+POEM_NUMBER: 498
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. தோள் கவின் எய்தின, தொடி நிலை நின்றன,
+2. நீள் வரி நெடுங்கண் வாள் வனப்பு உற்றன,
+3. ஏந்து கோட்டு யானை வேந்து தொழில் விட்டென,
+4. விரைசெலல் நெடுந்தேர் கடைஇ,
+5. வரையக நாடன் வந்தமாறே.
+
+---
+
+POEM_NUMBER: 499
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. பிடவம் மலரத், தளவம் நனையக்,
+2. கார் கவின் கொண்ட கானம் காணின்,
+3. வருந்துவள் பெரிதென, அருந்தொழிற்கு அகலாது
+4. வந்தனரால் நம் காதலர்,
+5. அம் தீம் கிளவி, நின் ஆய் நலம் கொண்டே.
+
+---
+
+POEM_NUMBER: 500
+BOOK: Aingurunuru
+AUTHOR_TAMIL: பேயனார்
+AUTHOR_ENGLISH: Pēyanār
+CATEGORY: Agam
+TINAI: Mullai
+
+LINES:
+1. கொன்றைப் பூவின் பசந்த உண்கண்,
+2. குன்றக நெடுஞ் சுனைக் குவளை போலத்
+3. தொல் கவின் பெற்றன இவட்கே, வெல்போர்
+4. வியன் நெடும் பாசறை நீடிய
+5. வயமான் தோன்றல், நீ வந்தமாறே.
+
+---

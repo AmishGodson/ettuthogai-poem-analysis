@@ -1,45 +1,24 @@
-import os
-os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
+from main_logic import analyze_poem
 
-from ettuthogai_validator import validate_poem
-from ettuthogai_corpus_check import corpus_match
+if __name__ == "__main__":
 
-from module1_preprocessing import TamilPreprocessor
-from module2_entity_extraction import EntityExtractor
-from module3_knowledge_mapping import KnowledgeMapper
-#from module4_sentence_generation import TamilSentenceGenerator
+    poem = input("Enter Tamil poem:\n")
 
-# ---- READ INPUT ----
-with open("input_poem.txt", encoding="utf-8") as f:
-    poem = f.read().strip()
+    result = analyze_poem(poem)
 
-print("Poem read from file:", poem)
+    print("\nPoem Type:", result["classification"])
 
-# ---- VALIDATION ----
-ml_result = validate_poem(poem)
+    if result["classification"] == "ETTUTHOGAI":
 
-if ml_result == "ETTUTHOGAI":
-    print(" Ettuthogai poem detected (ML)")
-# elif corpus_match(poem):
-#     print(" Ettuthogai poem detected ")
-else:
-    print(" This poem is NOT an Ettuthogai poem.")
-    exit()
+        print("\nPoem Details")
+        print("Poem Number:", result["metadata"]["poem_number"])
+        print("Book:", result["metadata"]["book"])
+        print("Poet Tamil:", result["metadata"]["poet_tamil"])
+        print("Poet English:", result["metadata"]["poet_english"])
+        print("Category:", result["metadata"]["category"])
+        print("Tinai:", result["metadata"]["tinai"])
 
-# ---- SEMANTIC PIPELINE ----
-pre = TamilPreprocessor()
-tokens = pre.preprocess(poem)
+        print("\nEntities\n")
 
-ner = EntityExtractor()
-entities = ner.predict(tokens)
-
-kb = KnowledgeMapper()
-enriched = kb.enrich(entities)
-
-#gen = TamilSentenceGenerator()
-#meaning = gen.generate(enriched)
-
-# ---- OUTPUT ----
-print("TOKENS:", tokens)
-print("ENTITY TAGS:", entities)
-#print("SIMPLIFIED MEANING:", meaning)
+        for e in result["entities"]:
+            print(e["word"], "->", e["entity"], "|", e["explanation"])

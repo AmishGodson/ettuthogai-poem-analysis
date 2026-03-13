@@ -1,40 +1,49 @@
-from ettuthogai_validator import validate_poem
-from ettuthogai_corpus_check import corpus_match
+from modules.module1_preprocessing import TamilPreprocessor
+from modules.module2_entity_extraction import EntityExtractor
+from modules.module3_knowledge_mapping import KnowledgeMapper
+from modules.module4_sentence_generation import SentenceGenerator
 
-from module1_preprocessing import TamilPreprocessor
-from module2_entity_extraction import EntityExtractor
-from module3_knowledge_mapping import KnowledgeMapper
+import pickle
 
 
-def analyze_poem(poem_text):
+pre = TamilPreprocessor()
+extractor = EntityExtractor()
+mapper = KnowledgeMapper()
+generator = SentenceGenerator()
 
-    result = validate_poem(poem_text)
+validator = pickle.load(open("models/ettuthogai_validator.pkl","rb"))
 
-    if result == "ETTUTHOGAI":
-        validation = "Ettuthogai poem detected (ML)"
-    elif corpus_match(poem_text):
-        validation = "Ettuthogai poem detected (Corpus fallback)"
-    else:
+
+def analyze_poem(poem):
+
+    prediction = validator.predict([poem])[0]
+
+    if prediction != "ETTUTHOGAI":
+
         return {
-            "validation": "Not an Ettuthogai poem",
-            "tokens": [],
-            "entities": []
+            "classification": prediction,
+            "entities": [],
+            "statistics": {},
+            "metadata": {},
+            "meaning": ""
         }
 
-    # Tokenization
-    pre = TamilPreprocessor()
-    tokens = pre.preprocess(poem_text)
+    tokens = pre.preprocess(poem)
 
-    # Entity Extraction
-    ner = EntityExtractor()
-    entities = ner.predict(tokens)
+    entities = extractor.predict(tokens)
 
-    # Knowledge Mapping
-    kb = KnowledgeMapper()
-    enriched = kb.enrich(entities)
+    structured = mapper.enrich(entities)
+
+    metadata = mapper.read_poem_metadata(poem)
+
+    stats = mapper.entity_statistics(entities)
+
+    meaning = generator.generate(entities)
 
     return {
-        "validation": validation,
-        "tokens": tokens,
-        "entities": entities
+        "entities": structured,
+        "meaning": meaning,
+        "statistics": stats,
+        "metadata": metadata,
+        "classification": prediction
     }

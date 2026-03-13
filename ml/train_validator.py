@@ -1,4 +1,3 @@
-import os
 import pandas as pd
 import pickle
 
@@ -8,8 +7,6 @@ from sklearn.svm import LinearSVC
 
 DATA_FILE = "data/ettuthogai_dataset.csv"
 
-os.makedirs("models", exist_ok=True)
-
 data = pd.read_csv(DATA_FILE)
 
 X = data["text"]
@@ -18,14 +15,14 @@ y = data["label"]
 model = Pipeline([
     ("tfidf", TfidfVectorizer(
         analyzer="char",
-        ngram_range=(3, 5)
+        ngram_range=(3,5)
     )),
     ("clf", LinearSVC())
 ])
 
-model.fit(X, y)
+model.fit(X,y)
 
-with open("models/ettuthogai_validator.pkl", "wb") as f:
-    pickle.dump(model, f)
+with open("models/ettuthogai_validator.pkl","wb") as f:
+    pickle.dump(model,f)
 
-print("Model trained successfully using SVM")
+print("Validator model trained")

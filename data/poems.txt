@@ -1,0 +1,26 @@
+project/
+│
+├── main.py
+├── main_logic.py
+├── module1_preprocessing.py
+├── module2_entity_extraction.py
+├── module3_knowledge_mapping.py
+├── module4_sentence_generation.py
+├── app.py,create_dataset.py,evaluation.py,test_model.py,train_model.py,train_validator.py
+│
+├── data/
+|   |-------non_ettuthogai/
+|             |------ettuthogai_classifier.csv,ettuthogai_dataset.csv,train_labels.txt,train_tokens.txt
+│   └── ettuthogai/
+│       └── csv_files
+│        |   ├── ainkurunuru.csv
+│        |   └── other_csv_files...
+│        |
+|        |____agananooru.txt,aingurunuru.txt,kalitogai.txt,kurundogai.txt,nattrinai.txt,paripadal.txt,pathitrupathu.txt,purananuru.txt 
+|-----------models/
+|             |-bilstm_ner.h5,ettuthogai_validator.pkl
+├── templates/
+│   └── index.html
+│
+└── static/
+    └── style.css

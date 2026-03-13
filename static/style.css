@@ -1,42 +1,97 @@
-body {
-    font-family: Arial, sans-serif;
-    background: #f4f4f4;
+body{
+
+font-family: "Segoe UI", Arial, sans-serif;
+background:#f0f7f7;
+margin:40px;
+color:#333;
+
 }
 
-.container {
-    width: 70%;
-    margin: auto;
-    background: white;
-    padding: 20px;
-    margin-top: 40px;
-    border-radius: 10px;
+h1{
+
+color:#006d6d;
+margin-bottom:20px;
+
 }
 
-textarea {
-    width: 100%;
-    font-size: 16px;
-    padding: 10px;
+h2{
+
+color:#007f7f;
+margin-top:30px;
+
 }
 
-button {
-    margin-top: 10px;
-    padding: 10px 20px;
-    cursor: pointer;
+textarea{
+
+width:650px;
+padding:12px;
+font-size:16px;
+border:1px solid #b2dfdb;
+border-radius:6px;
+background:#ffffff;
+
 }
 
-.result {
-    margin-top: 30px;
-    padding: 15px;
-    background: #eef;
-    border-radius: 10px;
+button{
+
+background:#008080;
+color:white;
+padding:10px 20px;
+border:none;
+border-radius:6px;
+font-size:15px;
+cursor:pointer;
+
 }
 
-table {
-    width: 100%;
-    border-collapse: collapse;
+button:hover{
+
+background:#006666;
+
 }
 
-th, td {
-    border: 1px solid black;
-    padding: 8px;
+table{
+
+border-collapse:collapse;
+margin-top:20px;
+width:80%;
+background:white;
+
+}
+
+th{
+
+background:#008080;
+color:white;
+padding:10px;
+
+}
+
+td{
+
+padding:10px;
+border:1px solid #cfd8dc;
+
+}
+
+tr:nth-child(even){
+
+background:#f2fafa;
+
+}
+
+hr{
+
+margin-top:30px;
+margin-bottom:30px;
+border:0;
+border-top:2px solid #b2dfdb;
+
+}
+
+p{
+
+font-size:16px;
+line-height:1.6;
+
 }

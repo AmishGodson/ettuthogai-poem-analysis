@@ -1,0 +1,10 @@
+Poem read from file: முருகன் மலை விழா பாடல்
+[DEBUG] Decision score: 1.55
+ Ettuthogai poem detected (ML)
+CSV Columns Found: ['Word_Original', 'Hierarchical_Entity_Tag']
+
+Ettuthogai Poem Entity identification,Classification and Semantic Analysis of ettutogai poems
+
+
+TOKENS: ['முருகன்', 'மலை', 'விழா', 'பாடல்']
+ENTITY TAGS: [('முருகன்', 'DIVINE_MURUGAN'), ('மலை', 'MOUNTAIN'), ('விழா', 'ACTION_LEAP'), ('பாடல்', 'POEM')]

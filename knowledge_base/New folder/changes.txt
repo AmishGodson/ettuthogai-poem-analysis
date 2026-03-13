@@ -1,0 +1,2 @@
+poem name,poet name,line number,pronounciation of the tamil word in english,Line_Original
+tinai identification based on the Entites(which tinai the poem refers)&ontology
